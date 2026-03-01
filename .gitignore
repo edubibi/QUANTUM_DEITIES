@@ -1,12 +1,17 @@
 __pycache__/
-output/
-!output/images/*.svg
-!output/*.html
-!output/*.json
 *.pyc
 .env
 .vscode/
 temp/
-PROMPTS_QUANTUM/
+
+# Only include specific output/prompt files
+# (keep the folders as needed)
+!output/
+!output/images/
+!output/images/*.svg
+!output/*.html
+!output/*.json
+
+!PROMPTS_QUANTUM/
 !PROMPTS_QUANTUM/prompts_batch.json
 !PROMPTS_QUANTUM/VIEW_PROMPTS.html

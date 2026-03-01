@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUANTUM DEITIES - PROMPT VIEWER</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --neon-magenta: #ff00ff;
+            --neon-cyan: #00ffff;
+            --bg-dark: #050505;
+            --card-glass: rgba(20, 20, 20, 0.8);
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: white;
+            font-family: 'Rajdhani', sans-serif;
+            margin: 0;
+            padding: 40px;
+            background-image:
+                radial-gradient(circle at 20% 20%, rgba(255, 0, 255, 0.05) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(0, 255, 255, 0.05) 0%, transparent 50%);
+            min-height: 100vh;
+        }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            text-align: center;
+            color: var(--neon-cyan);
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            margin-bottom: 50px;
+            text-shadow: 0 0 10px var(--neon-cyan);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+        }
+
+        .prompt-card {
+            background: var(--card-glass);
+            border: 1px solid rgba(0, 255, 255, 0.2);
+            padding: 25px;
+            border-radius: 15px;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .prompt-card:hover {
+            border-color: var(--neon-magenta);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(255, 0, 255, 0.2);
+        }
+
+        .prompt-id {
+            color: var(--neon-magenta);
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-family: 'Orbitron', sans-serif;
+        }
+
+        .prompt-text {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            color: #ddd;
+        }
+
+        .copy-btn {
+            background: transparent;
+            border: 1px solid var(--neon-cyan);
+            color: var(--neon-cyan);
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.7rem;
+            transition: all 0.3s;
+            width: 100%;
+        }
+
+        .copy-btn:hover {
+            background: var(--neon-cyan);
+            color: black;
+            box-shadow: 0 0 15px var(--neon-cyan);
+        }
+
+        .copy-btn.copied {
+            border-color: var(--neon-magenta);
+            color: var(--neon-magenta);
+            box-shadow: 0 0 15px var(--neon-magenta);
+        }
+
+        /* Scanline effect */
+        body::after {
+            content: " ";
+            display: block;
+            position: fixed;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+            z-index: 2;
+            background-size: 100% 2px, 3px 100%;
+            pointer-events: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Quantum Deities: Prompts v3.0</h1>
+
+    <div class="container" id="promptContainer">
+        <!-- Prompts will be loaded here -->
+    </div>
+
+    <script>
+        const prompts = [
+            {
+                "id": 1,
+                "prompt": "Neon-lit cyber-monk with glowing ocular implants and regal posture: intricate fiber-optic veins pulsing with quantum energy, levitating tech-relics and glowing glyphs in a circular configuration, color palette of iridescent pearl and sapphire blue, vibrant neon glow reflecting off metallic skin, stellar nursery with exploding stars, surreal masterpiece, intricate texture"
+            },
+            {
+                "id": 2,
+                "prompt": "Higher dimensional quantum entity in a human-like silhouette: crystalline micro-circuits embedded in a perfect facial structure, ethereal energy wisps weaving through sleek cyber-hair, color palette of neon violet and toxic orange, vibrant neon glow reflecting off metallic skin, infinite digital void with a wireframe floor, 8k resolution, cinematic lighting"
+            },
+            {
+                "id": 3,
+                "prompt": "Ancient cosmic android with divine human features: intricate fiber-optic veins pulsing with quantum energy, levitating tech-relics and glowing glyphs in a circular configuration, color palette of crimson fire and metallic gold, vibrant neon glow reflecting off metallic skin, vortex of swirling quantum energy, 8k resolution, cinematic lighting"
+            },
+            {
+                "id": 4,
+                "prompt": "Futuristic cyberpunk portrait of a humanoid deity: intricate fiber-optic veins pulsing with quantum energy, pulsing neural-link connectors hovering like a tech-crown, color palette of neon violet and toxic orange, distorted reality fragments and scanlines, vortex of swirling quantum energy, highly detailed digital art style"
+            },
+            {
+                "id": 5,
+                "prompt": "Cybernetic goddess with a face of liquid chrome and light: subsurface geometric tattoos made of pure ultraviolet light, ethereal energy wisps weaving through sleek cyber-hair, color palette of neon violet and toxic orange, subtle glitch effects and chromatic aberration, infinite digital void with a wireframe floor, highly detailed digital art style"
+            },
+            {
+                "id": 6,
+                "prompt": "Mechanical angel of the silicon age, ethereal beauty: flowing data streams moving across the cheeks and forehead, pulsing neural-link connectors hovering like a tech-crown, color palette of electric cyan and hot magenta, distorted reality fragments and scanlines, dark absolute space with distant nebulae, sharp focus, macro photography style"
+            },
+            {
+                "id": 7,
+                "prompt": "Neon-lit cyber-monk with glowing ocular implants and regal posture: flowing data streams moving across the cheeks and forehead, holographic fragments and data-shards floating around head, color palette of iridescent pearl and sapphire blue, swirling digital particles and dust, vortex of swirling quantum energy, highly detailed digital art style"
+            },
+            {
+                "id": 8,
+                "prompt": "Mechanical angel of the silicon age, ethereal beauty: intricate fiber-optic veins pulsing with quantum energy, orbiting rings of pure white light and binary code, color palette of crimson fire and metallic gold, volumetric lighting and heavy atmosphere, sacred geometric temple made of glass and light, sharp focus, macro photography style"
+            },
+            {
+                "id": 9,
+                "prompt": "Ancient cosmic android with divine human features: glowing neon circuit patterns etched into porcelain skin, orbiting rings of pure white light and binary code, color palette of electric cyan and hot magenta, subtle glitch effects and chromatic aberration, vortex of swirling quantum energy, surreal masterpiece, intricate texture"
+            },
+            {
+                "id": 10,
+                "prompt": "Mechanical angel of the silicon age, ethereal beauty: fractal geometry light displays dancing on a humanoid face, ethereal energy wisps weaving through sleek cyber-hair, color palette of crimson fire and metallic gold, vibrant neon glow reflecting off metallic skin, cyberpunk street blurred in the distance, 8k resolution, cinematic lighting"
+            }
+        ];
+
+        const container = document.getElementById('promptContainer');
+
+        prompts.forEach(p => {
+            const card = document.createElement('div');
+            card.className = 'prompt-card';
+            card.innerHTML = `
+                <div class="prompt-id">DEITY_ID #00${p.id}</div>
+                <div class="prompt-text">${p.prompt}</div>
+                <button class="copy-btn" onclick="copyToClipboard('${p.prompt}', this)">COPIAR PROMPT</button>
+            `;
+            container.appendChild(card);
+        });
+
+        function copyToClipboard(text, btn) {
+            navigator.clipboard.writeText(text).then(() => {
+                btn.innerText = '¡COPIADO!';
+                btn.classList.add('copied');
+                setTimeout(() => {
+                    btn.innerText = 'COPIAR PROMPT';
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+
+</html>

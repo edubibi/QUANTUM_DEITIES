@@ -1,0 +1,23 @@
+{
+    "name": "Quantum Deities - Faces #1",
+    "description": "Colecci\u00f3n de retratos cyberpunk futuristas generados mediante c\u00f3digo SVG.",
+    "image": "ipfs://YOUR_CID/1.svg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Deep Abyss"
+        },
+        {
+            "trait_type": "Profile Type",
+            "value": "Cyber Muse"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Electric Blue"
+        },
+        {
+            "trait_type": "Circuitry Density",
+            "value": "Infiltrated"
+        }
+    ]
+}
