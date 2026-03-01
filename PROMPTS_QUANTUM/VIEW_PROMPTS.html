@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QUANTUM DEITIES - PROMPT VIEWER</title>
+    <title>QUANTUM DEITIES - ATOMIC PROMPT VIEWER v4.0</title>
     <link
         href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&display=swap"
         rel="stylesheet">
@@ -12,8 +12,9 @@
         :root {
             --neon-magenta: #ff00ff;
             --neon-cyan: #00ffff;
+            --neon-gold: #ffcc00;
             --bg-dark: #050505;
-            --card-glass: rgba(20, 20, 20, 0.8);
+            --card-glass: rgba(20, 20, 20, 0.9);
         }
 
         body {
@@ -23,84 +24,135 @@
             margin: 0;
             padding: 40px;
             background-image:
-                radial-gradient(circle at 20% 20%, rgba(255, 0, 255, 0.05) 0%, transparent 50%),
-                radial-gradient(circle at 80% 80%, rgba(0, 255, 255, 0.05) 0%, transparent 50%);
+                radial-gradient(circle at 10% 10%, rgba(255, 0, 255, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 90% 90%, rgba(0, 255, 255, 0.08) 0%, transparent 40%);
             min-height: 100vh;
+        }
+
+        .header-container {
+            text-align: center;
+            margin-bottom: 60px;
         }
 
         h1 {
             font-family: 'Orbitron', sans-serif;
-            text-align: center;
-            color: var(--neon-cyan);
+            color: var(--neon-gold);
             text-transform: uppercase;
-            letter-spacing: 5px;
-            margin-bottom: 50px;
-            text-shadow: 0 0 10px var(--neon-cyan);
+            letter-spacing: 8px;
+            margin-bottom: 10px;
+            text-shadow: 0 0 15px rgba(255, 204, 0, 0.4);
+        }
+
+        .subtitle {
+            font-family: 'Rajdhani', sans-serif;
+            color: var(--neon-cyan);
+            letter-spacing: 4px;
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            opacity: 0.8;
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 25px;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 30px;
         }
 
         .prompt-card {
             background: var(--card-glass);
-            border: 1px solid rgba(0, 255, 255, 0.2);
-            padding: 25px;
-            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 4px;
+            /* Sharper industrial look */
             position: relative;
             overflow: hidden;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            backdrop-filter: blur(15px);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .prompt-card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--neon-cyan);
+            opacity: 0.3;
         }
 
         .prompt-card:hover {
             border-color: var(--neon-magenta);
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(255, 0, 255, 0.2);
+            transform: scale(1.02);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+        }
+
+        .prompt-card:hover::before {
+            background: var(--neon-magenta);
+            opacity: 1;
+            box-shadow: 0 0 10px var(--neon-magenta);
         }
 
         .prompt-id {
             color: var(--neon-magenta);
-            font-size: 0.8rem;
+            font-size: 0.7rem;
             font-weight: bold;
-            margin-bottom: 10px;
+            margin-bottom: 15px;
             font-family: 'Orbitron', sans-serif;
+            letter-spacing: 2px;
         }
 
         .prompt-text {
-            font-size: 1.1rem;
-            line-height: 1.6;
-            margin-bottom: 20px;
-            color: #ddd;
+            font-size: 1.15rem;
+            line-height: 1.7;
+            margin-bottom: 25px;
+            color: #ececec;
+            font-weight: 300;
         }
 
         .copy-btn {
-            background: transparent;
+            background: rgba(0, 255, 255, 0.05);
             border: 1px solid var(--neon-cyan);
             color: var(--neon-cyan);
-            padding: 8px 15px;
-            border-radius: 5px;
+            padding: 12px 20px;
+            border-radius: 2px;
             cursor: pointer;
             font-family: 'Orbitron', sans-serif;
-            font-size: 0.7rem;
-            transition: all 0.3s;
+            font-size: 0.75rem;
+            transition: all 0.2s;
             width: 100%;
+            letter-spacing: 2px;
+            text-transform: uppercase;
         }
 
         .copy-btn:hover {
             background: var(--neon-cyan);
             color: black;
-            box-shadow: 0 0 15px var(--neon-cyan);
+            box-shadow: 0 0 20px var(--neon-cyan);
         }
 
         .copy-btn.copied {
             border-color: var(--neon-magenta);
-            color: var(--neon-magenta);
-            box-shadow: 0 0 15px var(--neon-magenta);
+            color: #fff;
+            background: var(--neon-magenta);
+            box-shadow: 0 0 20px var(--neon-magenta);
+        }
+
+        .badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 0.6rem;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 3px 8px;
+            border-radius: 10px;
+            color: #888;
+            text-transform: uppercase;
         }
 
         /* Scanline effect */
@@ -112,17 +164,22 @@
             left: 0;
             bottom: 0;
             right: 0;
-            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
-            z-index: 2;
-            background-size: 100% 2px, 3px 100%;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.15) 50%),
+                linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+            z-index: 9999;
+            background-size: 100% 3px, 3px 100%;
             pointer-events: none;
+            opacity: 0.4;
         }
     </style>
 </head>
 
 <body>
 
-    <h1>Quantum Deities: Prompts v3.0</h1>
+    <div class="header-container">
+        <h1>QUANTUM DEITIES</h1>
+        <div class="subtitle">ATOMIC PROMPT SYSTEM v4.0</div>
+    </div>
 
     <div class="container" id="promptContainer">
         <!-- Prompts will be loaded here -->
@@ -132,43 +189,35 @@
         const prompts = [
             {
                 "id": 1,
-                "prompt": "Neon-lit cyber-monk with glowing ocular implants and regal posture: intricate fiber-optic veins pulsing with quantum energy, levitating tech-relics and glowing glyphs in a circular configuration, color palette of iridescent pearl and sapphire blue, vibrant neon glow reflecting off metallic skin, stellar nursery with exploding stars, surreal masterpiece, intricate texture"
+                "prompt": "Portrait of a Post-human Messiah with a matte white carbon fiber, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by ethereal wisps of plasma energy and suspended micro-probes following the head. Lighting: volumetric fog illuminated by neon flares, palette of blood orange and cold steel gray. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
             },
             {
                 "id": 2,
-                "prompt": "Higher dimensional quantum entity in a human-like silhouette: crystalline micro-circuits embedded in a perfect facial structure, ethereal energy wisps weaving through sleek cyber-hair, color palette of neon violet and toxic orange, vibrant neon glow reflecting off metallic skin, infinite digital void with a wireframe floor, 8k resolution, cinematic lighting"
+                "prompt": "Portrait of a Celestial Android with a matte white carbon fiber, embedded crystalline processors along the jawline, multi-faceted diamond ocular lenses, surrounded by vortex of swirling quantum energy particles and rotating rings of pure ultraviolet light. Lighting: subtle glitch-art distortions in the air, palette of cyberpunk cyan and electric magenta. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
             },
             {
                 "id": 3,
-                "prompt": "Ancient cosmic android with divine human features: intricate fiber-optic veins pulsing with quantum energy, levitating tech-relics and glowing glyphs in a circular configuration, color palette of crimson fire and metallic gold, vibrant neon glow reflecting off metallic skin, vortex of swirling quantum energy, 8k resolution, cinematic lighting"
+                "prompt": "Portrait of a Android Archangel with a sculpted porcelain face, intricate fiber-optic capillaries, glowing sapphire optic sensors, surrounded by aurora-like data streams and rotating rings of pure ultraviolet light. Lighting: dense digital haze with light-streaks, palette of cyberpunk cyan and electric magenta. Technical style: highly detailed textured render, intricate details, hyper-realistic, high fidelity."
             },
             {
                 "id": 4,
-                "prompt": "Futuristic cyberpunk portrait of a humanoid deity: intricate fiber-optic veins pulsing with quantum energy, pulsing neural-link connectors hovering like a tech-crown, color palette of neon violet and toxic orange, distorted reality fragments and scanlines, vortex of swirling quantum energy, highly detailed digital art style"
+                "prompt": "Portrait of a Quantum Muse with a iridescent synth-flesh, liquid light conduits flowing like tears, void-black sensory implants with rotating rings, surrounded by pulsing ion-fields creating a corona effect and rotating rings of pure ultraviolet light. Lighting: dramatically backlit by a dying star, palette of blood orange and cold steel gray. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
             },
             {
                 "id": 5,
-                "prompt": "Cybernetic goddess with a face of liquid chrome and light: subsurface geometric tattoos made of pure ultraviolet light, ethereal energy wisps weaving through sleek cyber-hair, color palette of neon violet and toxic orange, subtle glitch effects and chromatic aberration, infinite digital void with a wireframe floor, highly detailed digital art style"
+                "prompt": "Portrait of a Neural Empress with a perfectly symmetrical synthetic skin, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by vortex of swirling quantum energy particles and hovering neural-link connectors. Lighting: chromatic aberration at the edges of reality, palette of toxic green and deep ultraviolet. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
             },
             {
                 "id": 6,
-                "prompt": "Mechanical angel of the silicon age, ethereal beauty: flowing data streams moving across the cheeks and forehead, pulsing neural-link connectors hovering like a tech-crown, color palette of electric cyan and hot magenta, distorted reality fragments and scanlines, dark absolute space with distant nebulae, sharp focus, macro photography style"
+                "prompt": "Portrait of a Synthetic Goddess with a shifted liquid mercury visage, glowing neon neural pathways, multi-faceted diamond ocular lenses, surrounded by cascades of binary code rain in the atmosphere and orbiting shards of obsidian and gold. Lighting: bokeh of data-shards and hexagons, palette of iridiscent opal and midnight blue. Technical style: supreme detail concept art, hyper-realistic, high fidelity."
             },
             {
                 "id": 7,
-                "prompt": "Neon-lit cyber-monk with glowing ocular implants and regal posture: flowing data streams moving across the cheeks and forehead, holographic fragments and data-shards floating around head, color palette of iridescent pearl and sapphire blue, swirling digital particles and dust, vortex of swirling quantum energy, highly detailed digital art style"
+                "prompt": "Portrait of a Silicon Deity with shifting liquid mercury visage, liquid light conduits flowing like tears, mechanical pupils contracting with clockwork precision, surrounded by auroras of data streams and levitating tech-crown made of floating antennas. Lighting: dramatically backlit by a cosmic void, palette of regal gold and matte black. Technical style: masterpiece by Moebius, intricate mechanical ports."
             },
             {
                 "id": 8,
-                "prompt": "Mechanical angel of the silicon age, ethereal beauty: intricate fiber-optic veins pulsing with quantum energy, orbiting rings of pure white light and binary code, color palette of crimson fire and metallic gold, volumetric lighting and heavy atmosphere, sacred geometric temple made of glass and light, sharp focus, macro photography style"
-            },
-            {
-                "id": 9,
-                "prompt": "Ancient cosmic android with divine human features: glowing neon circuit patterns etched into porcelain skin, orbiting rings of pure white light and binary code, color palette of electric cyan and hot magenta, subtle glitch effects and chromatic aberration, vortex of swirling quantum energy, surreal masterpiece, intricate texture"
-            },
-            {
-                "id": 10,
-                "prompt": "Mechanical angel of the silicon age, ethereal beauty: fractal geometry light displays dancing on a humanoid face, ethereal energy wisps weaving through sleek cyber-hair, color palette of crimson fire and metallic gold, vibrant neon glow reflecting off metallic skin, cyberpunk street blurred in the distance, 8k resolution, cinematic lighting"
+                "prompt": "Portrait of a Glitch Titan with veined marble cyber-face, micro-laser etched fractal patterns, burning amber laser-array eyes, surrounded by molecular dust suspended in a temporal field and hovering neural-link connectors. Lighting: chromatic aberration intense, palette of crimson pulse and metallic chrome. Technical style: extreme close-up macro, 8k resolution UE5."
             }
         ];
 
@@ -178,19 +227,21 @@
             const card = document.createElement('div');
             card.className = 'prompt-card';
             card.innerHTML = `
-                <div class="prompt-id">DEITY_ID #00${p.id}</div>
+                <div class="badge">ATOMIC_v4</div>
+                <div class="prompt-id">TRANSMISSION_#0${p.id}</div>
                 <div class="prompt-text">${p.prompt}</div>
-                <button class="copy-btn" onclick="copyToClipboard('${p.prompt}', this)">COPIAR PROMPT</button>
+                <button class="copy-btn" onclick="copyToClipboard('${p.prompt}', this)">COPY QUANTUM DATA</button>
             `;
             container.appendChild(card);
         });
 
         function copyToClipboard(text, btn) {
             navigator.clipboard.writeText(text).then(() => {
-                btn.innerText = '¡COPIADO!';
+                const originalText = btn.innerText;
+                btn.innerText = 'DATA_COPIED';
                 btn.classList.add('copied');
                 setTimeout(() => {
-                    btn.innerText = 'COPIAR PROMPT';
+                    btn.innerText = originalText;
                     btn.classList.remove('copied');
                 }, 2000);
             });

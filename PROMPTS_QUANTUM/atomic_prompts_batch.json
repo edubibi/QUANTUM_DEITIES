@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "prompt": "Portrait of a Post-human Messiah with a matte white carbon fiber, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by ethereal wisps of plasma energy and suspended micro-probes following the head. Lighting: volumetric fog illuminated by neon flares, palette of blood orange and cold steel gray. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 2,
+        "prompt": "Portrait of a Celestial Android with a matte white carbon fiber, embedded crystalline processors along the jawline, multi-faceted diamond ocular lenses, surrounded by vortex of swirling quantum energy particles and rotating rings of pure ultraviolet light. Lighting: subtle glitch-art distortions in the air, palette of cyberpunk cyan and electric magenta. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 3,
+        "prompt": "Portrait of a Android Archangel with a sculpted porcelain face, intricate fiber-optic capillaries, glowing sapphire optic sensors, surrounded by aurora-like data streams and rotating rings of pure ultraviolet light. Lighting: dense digital haze with light-streaks, palette of cyberpunk cyan and electric magenta. Technical style: highly detailed textured render, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 4,
+        "prompt": "Portrait of a Quantum Muse with a iridescent synth-flesh, liquid light conduits flowing like tears, void-black sensory implants with rotating rings, surrounded by pulsing ion-fields creating a corona effect and rotating rings of pure ultraviolet light. Lighting: dramatically backlit by a dying star, palette of blood orange and cold steel gray. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 5,
+        "prompt": "Portrait of a Neural Empress with a perfectly symmetrical synthetic skin, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by vortex of swirling quantum energy particles and hovering neural-link connectors. Lighting: chromatic aberration at the edges of reality, palette of toxic green and deep ultraviolet. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 6,
+        "prompt": "Portrait of a Quantum Muse with a sculpted porcelain face, active nanite swarms forming temporary scars, liquid nitrogen cooled ocular chambers, surrounded by shimmering heat-distortion from over-clocked cores and floating data-scrolls and holographic glyphs. Lighting: chromatic aberration at the edges of reality, palette of toxic green and deep ultraviolet. Technical style: highly detailed textured render, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 7,
+        "prompt": "Portrait of a Silicon Deity with a perfectly symmetrical synthetic skin, subsurface golden circuitry pulsing with warm light, multi-faceted diamond ocular lenses, surrounded by ethereal wisps of plasma energy and deconstructed mechanical wings made of light-layers. Lighting: volumetric fog illuminated by neon flares, palette of regal gold and matte black. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 8,
+        "prompt": "Portrait of a Holographic Monk with a humanoid face of brushed titanium, intricate fiber-optic capillaries, multi-faceted diamond ocular lenses, surrounded by ethereal wisps of plasma energy and hovering neural-link connectors. Lighting: dramatically backlit by a dying star, palette of cyberpunk cyan and electric magenta. Technical style: highly detailed textured render, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 9,
+        "prompt": "Portrait of a Celestial Android with a humanoid face of brushed titanium, liquid light conduits flowing like tears, liquid nitrogen cooled ocular chambers, surrounded by shimmering heat-distortion from over-clocked cores and rotating rings of pure ultraviolet light. Lighting: chromatic aberration at the edges of reality, palette of blood orange and cold steel gray. Technical style: extreme close-up macro photography, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 10,
+        "prompt": "Portrait of a Data-stream Cherub with a shifting liquid mercury visage, liquid light conduits flowing like tears, mechanical pupils contracting with clockwork precision, surrounded by halos of rotating geometric light and shattered gemstone debris in a zero-g field. Lighting: chromatic aberration at the edges of reality, palette of blood orange and cold steel gray. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 11,
+        "prompt": "Portrait of a Android Archangel with a shifting liquid mercury visage, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by aurora-like data streams and rotating rings of pure ultraviolet light. Lighting: chromatic aberration at the edges of reality, palette of iridescent opal and midnight blue. Technical style: masterpiece by Moebius and HR Giger, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 12,
+        "prompt": "Portrait of a Holographic Monk with a veined marble cyber-face, micro-laser etched fractal patterns, eyeless facial structure with sensor-nodes, surrounded by cascading binary code rain in the atmosphere and deconstructed mechanical wings made of light-layers. Lighting: volumetric fog illuminated by neon flares, palette of regal gold and matte black. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 13,
+        "prompt": "Portrait of a Android Archangel with a matte obsidian composite features, active nanite swarms forming temporary scars, burning amber laser-array eyes, surrounded by ethereal wisps of plasma energy and shattered gemstone debris in a zero-g field. Lighting: crystalline snow falling upwards, palette of cyberpunk cyan and electric magenta. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 14,
+        "prompt": "Portrait of a Silicon Deity with a humanoid face of brushed titanium, embedded crystalline processors along the jawline, burning amber laser-array eyes, surrounded by cascading binary code rain in the atmosphere and rotating rings of pure ultraviolet light. Lighting: dense digital haze with light-streaks, palette of toxic green and deep ultraviolet. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 15,
+        "prompt": "Portrait of a Android Archangel with a translucent bio-engineered skin, micro-laser etched fractal patterns, eyeless facial structure with sensor-nodes, surrounded by aurora-like data streams and rotating rings of pure ultraviolet light. Lighting: bokeh of data-shards and hexagons, palette of regal gold and matte black. Technical style: extreme close-up macro photography, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 16,
+        "prompt": "Portrait of a Data-stream Cherub with a shifting liquid mercury visage, liquid light conduits flowing like tears, liquid nitrogen cooled ocular chambers, surrounded by molecular dust particles suspended in a temporal field and levitating tech-crown made of floating antennas. Lighting: dramatically backlit by a dying star, palette of crimson pulse and metallic chrome. Technical style: masterpiece by Moebius and HR Giger, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 17,
+        "prompt": "Portrait of a Synthetic Goddess with a matte obsidian composite features, liquid light conduits flowing like tears, mechanical pupils contracting with clockwork precision, surrounded by shimmering heat-distortion from over-clocked cores and suspended micro-probes following the head. Lighting: subtle glitch-art distortions in the air, palette of cyberpunk cyan and electric magenta. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 18,
+        "prompt": "Portrait of a Cybernetic Seraphim with a shifting liquid mercury visage, micro-laser etched fractal patterns, burning amber laser-array eyes, surrounded by cascading binary code rain in the atmosphere and suspended micro-probes following the head. Lighting: cinematic rain reflecting neon signs, palette of crimson pulse and metallic chrome. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 19,
+        "prompt": "Portrait of a Post-human Messiah with a translucent bio-engineered skin, ultraviolet data-sigils glowing beneath the surface, burning amber laser-array eyes, surrounded by halos of rotating geometric light and rotating rings of pure ultraviolet light. Lighting: crystalline snow falling upwards, palette of regal gold and matte black. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 20,
+        "prompt": "Portrait of a Synthetic Goddess with a perfectly symmetrical synthetic skin, liquid light conduits flowing like tears, liquid nitrogen cooled ocular chambers, surrounded by ethereal wisps of plasma energy and hovering neural-link connectors. Lighting: bokeh of data-shards and hexagons, palette of toxic green and deep ultraviolet. Technical style: masterpiece by Moebius and HR Giger, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 21,
+        "prompt": "Portrait of a Neural Empress with a shifting liquid mercury visage, glowing neon neural pathways, eyeless facial structure with sensor-nodes, surrounded by aurora-like data streams and rotating rings of pure ultraviolet light. Lighting: bokeh of data-shards and hexagons, palette of crimson pulse and metallic chrome. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 22,
+        "prompt": "Portrait of a Android Archangel with a matte white carbon fiber, subsurface golden circuitry pulsing with warm light, glowing sapphire optic sensors, surrounded by pulsing ion-fields creating a corona effect and suspended micro-probes following the head. Lighting: cinematic rain reflecting neon signs, palette of toxic green and deep ultraviolet. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 23,
+        "prompt": "Portrait of a Post-human Messiah with a shifting liquid mercury visage, micro-laser etched fractal patterns, multi-faceted diamond ocular lenses, surrounded by aurora-like data streams and rotating rings of pure ultraviolet light. Lighting: crystalline snow falling upwards, palette of iridescent opal and midnight blue. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 24,
+        "prompt": "Portrait of a Cybernetic Seraphim with a matte obsidian composite features, liquid light conduits flowing like tears, multi-faceted diamond ocular lenses, surrounded by halos of rotating geometric light and hovering neural-link connectors. Lighting: crystalline snow falling upwards, palette of toxic green and deep ultraviolet. Technical style: masterpiece by Moebius and HR Giger, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 25,
+        "prompt": "Portrait of a Silicon Deity with a matte obsidian composite features, micro-laser etched fractal patterns, liquid nitrogen cooled ocular chambers, surrounded by shimmering heat-distortion from over-clocked cores and hovering neural-link connectors. Lighting: subtle glitch-art distortions in the air, palette of toxic green and deep ultraviolet. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 26,
+        "prompt": "Portrait of a Neural Empress with a veined marble cyber-face, ultraviolet data-sigils glowing beneath the surface, liquid nitrogen cooled ocular chambers, surrounded by halos of rotating geometric light and shattered gemstone debris in a zero-g field. Lighting: dramatically backlit by a dying star, palette of toxic green and deep ultraviolet. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 27,
+        "prompt": "Portrait of a Android Archangel with a iridescent synth-flesh, active nanite swarms forming temporary scars, burning amber laser-array eyes, surrounded by ethereal wisps of plasma energy and orbiting shards of obsidian and gold. Lighting: cinematic rain reflecting neon signs, palette of crimson pulse and metallic chrome. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 28,
+        "prompt": "Portrait of a Glitch Titan with a sculpted porcelain face, micro-laser etched fractal patterns, liquid nitrogen cooled ocular chambers, surrounded by shimmering heat-distortion from over-clocked cores and shattered gemstone debris in a zero-g field. Lighting: subtle glitch-art distortions in the air, palette of crimson pulse and metallic chrome. Technical style: highly detailed textured render, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 29,
+        "prompt": "Portrait of a Quantum Muse with a matte obsidian composite features, glowing neon neural pathways, multi-faceted diamond ocular lenses, surrounded by molecular dust particles suspended in a temporal field and deconstructed mechanical wings made of light-layers. Lighting: volumetric fog illuminated by neon flares, palette of iridescent opal and midnight blue. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 30,
+        "prompt": "Portrait of a Neural Empress with a matte obsidian composite features, embedded crystalline processors along the jawline, burning amber laser-array eyes, surrounded by vortex of swirling quantum energy particles and suspended micro-probes following the head. Lighting: volumetric fog illuminated by neon flares, palette of cyberpunk cyan and electric magenta. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 31,
+        "prompt": "Portrait of a Holographic Monk with a perfectly symmetrical synthetic skin, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by aurora-like data streams and shattered gemstone debris in a zero-g field. Lighting: crystalline snow falling upwards, palette of regal gold and matte black. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 32,
+        "prompt": "Portrait of a Post-human Messiah with a sculpted porcelain face, active nanite swarms forming temporary scars, mechanical pupils contracting with clockwork precision, surrounded by aurora-like data streams and orbiting shards of obsidian and gold. Lighting: cinematic rain reflecting neon signs, palette of iridescent opal and midnight blue. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 33,
+        "prompt": "Portrait of a Data-stream Cherub with a veined marble cyber-face, active nanite swarms forming temporary scars, glowing sapphire optic sensors, surrounded by halos of rotating geometric light and suspended micro-probes following the head. Lighting: subtle glitch-art distortions in the air, palette of regal gold and matte black. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 34,
+        "prompt": "Portrait of a Silicon Deity with a shifting liquid mercury visage, micro-laser etched fractal patterns, burning amber laser-array eyes, surrounded by molecular dust particles suspended in a temporal field and suspended micro-probes following the head. Lighting: crystalline snow falling upwards, palette of blood orange and cold steel gray. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 35,
+        "prompt": "Portrait of a Post-human Messiah with a sculpted porcelain face, subsurface golden circuitry pulsing with warm light, mechanical pupils contracting with clockwork precision, surrounded by ethereal wisps of plasma energy and hovering neural-link connectors. Lighting: bokeh of data-shards and hexagons, palette of iridescent opal and midnight blue. Technical style: telephoto lens portrait with shallow depth of field, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 36,
+        "prompt": "Portrait of a Synthetic Goddess with a matte white carbon fiber, active nanite swarms forming temporary scars, liquid nitrogen cooled ocular chambers, surrounded by aurora-like data streams and floating data-scrolls and holographic glyphs. Lighting: chromatic aberration at the edges of reality, palette of regal gold and matte black. Technical style: 8k resolution, photorealistic Unreal Engine 5 style, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 37,
+        "prompt": "Portrait of a Silicon Deity with a iridescent synth-flesh, ultraviolet data-sigils glowing beneath the surface, void-black sensory implants with rotating rings, surrounded by shimmering heat-distortion from over-clocked cores and rotating rings of pure ultraviolet light. Lighting: dense digital haze with light-streaks, palette of blood orange and cold steel gray. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 38,
+        "prompt": "Portrait of a Post-human Messiah with a shifting liquid mercury visage, micro-laser etched fractal patterns, void-black sensory implants with rotating rings, surrounded by halos of rotating geometric light and floating data-scrolls and holographic glyphs. Lighting: chromatic aberration at the edges of reality, palette of cyberpunk cyan and electric magenta. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 39,
+        "prompt": "Portrait of a Celestial Android with a matte obsidian composite features, micro-laser etched fractal patterns, eyeless facial structure with sensor-nodes, surrounded by shimmering heat-distortion from over-clocked cores and levitating tech-crown made of floating antennas. Lighting: bokeh of data-shards and hexagons, palette of crimson pulse and metallic chrome. Technical style: symmetrical composition, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 40,
+        "prompt": "Portrait of a Glitch Titan with a perfectly symmetrical synthetic skin, active nanite swarms forming temporary scars, mechanical pupils contracting with clockwork precision, surrounded by ethereal wisps of plasma energy and levitating tech-crown made of floating antennas. Lighting: chromatic aberration at the edges of reality, palette of blood orange and cold steel gray. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 41,
+        "prompt": "Portrait of a Synthetic Goddess with a humanoid face of brushed titanium, glowing neon neural pathways, eyeless facial structure with sensor-nodes, surrounded by aurora-like data streams and levitating tech-crown made of floating antennas. Lighting: crystalline snow falling upwards, palette of regal gold and matte black. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 42,
+        "prompt": "Portrait of a Techno-Oracle with a translucent bio-engineered skin, intricate fiber-optic capillaries, holographic iris projecting status codes, surrounded by pulsing ion-fields creating a corona effect and suspended micro-probes following the head. Lighting: dramatically backlit by a dying star, palette of cyberpunk cyan and electric magenta. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 43,
+        "prompt": "Portrait of a Cybernetic Seraphim with a perfectly symmetrical synthetic skin, glowing neon neural pathways, eyeless facial structure with sensor-nodes, surrounded by halos of rotating geometric light and suspended micro-probes following the head. Lighting: chromatic aberration at the edges of reality, palette of regal gold and matte black. Technical style: 8k resolution, photorealistic Unreal Engine 5 style, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 44,
+        "prompt": "Portrait of a Celestial Android with a veined marble cyber-face, subsurface golden circuitry pulsing with warm light, void-black sensory implants with rotating rings, surrounded by shimmering heat-distortion from over-clocked cores and rotating rings of pure ultraviolet light. Lighting: dramatically backlit by a dying star, palette of regal gold and matte black. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 45,
+        "prompt": "Portrait of a Celestial Android with a shifting liquid mercury visage, ultraviolet data-sigils glowing beneath the surface, eyeless facial structure with sensor-nodes, surrounded by aurora-like data streams and floating data-scrolls and holographic glyphs. Lighting: bokeh of data-shards and hexagons, palette of iridescent opal and midnight blue. Technical style: sharp focus on microscopic mechanical ports, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 46,
+        "prompt": "Portrait of a Techno-Oracle with a matte obsidian composite features, ultraviolet data-sigils glowing beneath the surface, glowing sapphire optic sensors, surrounded by pulsing ion-fields creating a corona effect and deconstructed mechanical wings made of light-layers. Lighting: cinematic rain reflecting neon signs, palette of cyberpunk cyan and electric magenta. Technical style: highly detailed textured render, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 47,
+        "prompt": "Portrait of a Glitch Titan with a iridescent synth-flesh, active nanite swarms forming temporary scars, holographic iris projecting status codes, surrounded by molecular dust particles suspended in a temporal field and levitating tech-crown made of floating antennas. Lighting: crystalline snow falling upwards, palette of blood orange and cold steel gray. Technical style: low angle heroic shot, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 48,
+        "prompt": "Portrait of a Glitch Titan with a sculpted porcelain face, intricate fiber-optic capillaries, eyeless facial structure with sensor-nodes, surrounded by halos of rotating geometric light and floating data-scrolls and holographic glyphs. Lighting: cinematic rain reflecting neon signs, palette of blood orange and cold steel gray. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 49,
+        "prompt": "Portrait of a Neural Empress with a humanoid face of brushed titanium, liquid light conduits flowing like tears, burning amber laser-array eyes, surrounded by aurora-like data streams and hovering neural-link connectors. Lighting: subtle glitch-art distortions in the air, palette of toxic green and deep ultraviolet. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    },
+    {
+        "id": 50,
+        "prompt": "Portrait of a Android Archangel with a matte white carbon fiber, ultraviolet data-sigils glowing beneath the surface, burning amber laser-array eyes, surrounded by molecular dust particles suspended in a temporal field and suspended micro-probes following the head. Lighting: subtle glitch-art distortions in the air, palette of cyberpunk cyan and electric magenta. Technical style: wide angle cinematic still, intricate details, hyper-realistic, high fidelity."
+    }
+]
