@@ -1,0 +1,12 @@
+__pycache__/
+output/
+!output/images/*.svg
+!output/*.html
+!output/*.json
+*.pyc
+.env
+.vscode/
+temp/
+PROMPTS_QUANTUM/
+!PROMPTS_QUANTUM/prompts_batch.json
+!PROMPTS_QUANTUM/VIEW_PROMPTS.html
