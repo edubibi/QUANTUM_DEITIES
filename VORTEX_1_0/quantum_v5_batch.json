@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Techno-organic constellation constructed from layered sheets of digital silk. Explosion of shimmering heat-distortion from over-clocked cores. Lighting: strobe lighting from ion discharges. Palette: cyberpunk cyan and electric magenta. Style: Zdzisław Beksiński dystopian nightmare, complex geometry. sharp focus on microscopic mechanical ports."
+    },
+    {
+        "id": 2,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Synthetic Sovereign with iridescent synth-flesh. Integrated subsurface golden circuitry pulsing with warm light. burning amber laser-array eyes optics. Enveloped in pulsing electrical storms. biological luminescence from internal structures environment. plasma white and ionized cyan and Alberto Seveso high-speed liquid dynamic influence. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 3,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: molten rainbow chrome forming a Data-stream vortex. Chaotic interstellar nebula wisps flow. bokeh of data-shards and hexagons lighting. crimson pulse and metallic chrome colors. Inspired by Syd Mead industrial futurism aesthetic. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 4,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Silicon Sentinel, molten glass skin with internal glow, ultraviolet data-sigils glowing beneath the surface, star-chart projection lenses. Adorned with electromagnetic lightning arcs. Atmosphere: quantum entanglement lighting spooky action. Color palette: anodized copper and electric cobalt. Art style inspired by Beeple digital chaos and complexity. Technical specs: sharp focus on microscopic mechanical ports, intricate textures, 8k resolution."
+    },
+    {
+        "id": 5,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: frozen dark matter shards forming a Geometric transcendence. Chaotic shimmering heat-distortion from over-clocked cores flow. electric storm backlighting lighting. cyberpunk cyan and electric magenta colors. Inspired by H.R. Giger organic-tech bio-mechanical. highly detailed textured 3D render."
+    },
+    {
+        "id": 6,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Post-human Entity, humanoid face of brushed titanium, superconducting emerald ley-lines, multi-faceted diamond ocular lenses. Adorned with molecular dust particles suspended in a temporal field. Atmosphere: chromatic aberration, event horizon. Color palette: iridescent opal and midnight blue. Art style inspired by Alberto Seveso high-speed liquid dynamic. Technical specs: extreme macro photography, f/1.8, intricate textures, 8k resolution."
+    },
+    {
+        "id": 7,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Plasma silk sculpture constructed from glowing neon thread lattices. Explosion of high-voltage plasma arcs. Lighting: bokeh of data-shards and hexagons. Palette: crimson pulse and metallic chrome. Style: Alberto Seveso high-speed liquid dynamic, complex geometry. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 8,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Synthetic Sovereign, matte white carbon fiber, embedded crystalline processors along the jawline, glowing sapphire optic sensors. Adorned with high-voltage plasma arcs. Atmosphere: dense digital haze with light-streaks. Color palette: electric blue and violet nebula. Art style inspired by Zdzisław Beksiński dystopian nightmare. Technical specs: wide angle cinematic sci-fi epic still, intricate textures, 8k resolution."
+    },
+    {
+        "id": 9,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: glowing neon thread lattices forming a Plasma silk sculpture. Chaotic molecular dust particles suspended in a temporal field flow. electric storm backlighting lighting. regal gold and matte black colors. Inspired by Android Jones psychedelic digital visionary. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 10,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Synthetic Sovereign, molten glass skin with internal glow, ultraviolet data-sigils glowing beneath the surface, star-chart projection lenses. Adorned with electromagnetic lightning arcs. Atmosphere: dramatic chiaroscuro neon highlights. Color palette: iridescent opal and midnight blue. Art style inspired by Zdzisław Beksiński dystopian nightmare. Technical specs: symmetrical composition, rule of thirds, intricate textures, 8k resolution."
+    },
+    {
+        "id": 11,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Plasma silk sculpture constructed from interlocking geometric prisms. Explosion of ethereal wisps of plasma energy. Lighting: quantum entanglement lighting spooky action. Palette: iridescent opal and midnight blue. Style: Syd Mead industrial futurism aesthetic, complex geometry. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 12,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Celestial Construct featuring humanoid face of brushed titanium and burning amber laser-array eyes. micro-laser etched fractal patterns details glowing through. electromagnetic lightning arcs surrounding the head. bokeh of data-shards and hexagons vibe. iridescent opal and midnight blue scheme. H.R. Giger organic-tech bio-mechanical style. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 13,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Data-stream vortex constructed from glowing neon thread lattices. Explosion of halos of rotating geometric light. Lighting: strobe lighting from ion discharges. Palette: anodized copper and electric cobalt. Style: Syd Mead industrial futurism aesthetic, complex geometry. sharp focus on microscopic mechanical ports."
+    },
+    {
+        "id": 14,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Techno-Core with black-hole obsidian features. Integrated hexagonal nanite plating pulsing at 60Hz. multi-faceted diamond ocular lenses optics. Enveloped in high-voltage plasma arcs. ethereal plasma source rim-lighting environment. cyberpunk cyan and electric magenta and Zdzisław Beksiński dystopian nightmare influence. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 15,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: interlocking geometric prisms forming a Neural entropy swarm. Chaotic high-voltage plasma arcs flow. nebular cosmic glow background lighting. blood orange and cold steel gray colors. Inspired by H.R. Giger organic-tech bio-mechanical. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 16,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Celestial Construct, matte obsidian composite features, active nanite swarms forming temporary scars, holographic iris projecting status codes. Adorned with cascading binary code rain. Atmosphere: chromatic aberration, event horizon. Color palette: anodized copper and electric cobalt. Art style inspired by Beeple digital chaos and complexity. Technical specs: wide angle cinematic sci-fi epic still, intricate textures, 8k resolution."
+    },
+    {
+        "id": 17,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: swirling vapor of electrified mercury forming a Techno-organic constellation. Chaotic molecular dust particles suspended in a temporal field flow. dramatically backlit by a dying blue giant lighting. blood orange and cold steel gray colors. Inspired by Android Jones psychedelic digital visionary. highly detailed textured 3D render."
+    },
+    {
+        "id": 18,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Quantum Muse featuring veined marble cyber-face and burning amber laser-array eyes. liquid light conduits flowing like tears details glowing through. molecular dust particles suspended in a temporal field surrounding the head. dramatically backlit by a dying blue giant vibe. cyberpunk cyan and electric magenta scheme. Moebius surreal sci-fi line-art style. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 19,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Geometric transcendence with layered sheets of digital silk textures. Reactive interstellar nebula wisps fields. dramatic chiaroscuro neon highlights atmosphere. Vibrant crimson pulse and metallic chrome. James Thompson cyber-renaissance detail aesthetics. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 20,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Data-stream Node with matte obsidian composite features. Integrated glowing neon neural pathways. glowing sapphire optic sensors optics. Enveloped in pulsing electrical storms. dense digital haze with light-streaks environment. crimson pulse and metallic chrome and Android Jones psychedelic digital visionary influence. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 21,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: layered sheets of digital silk forming a Data-stream vortex. Chaotic floating glyphs of ancient neural code flow. volumetric fog with 8k neon flares lighting. iridescent opal and midnight blue colors. Inspired by James Thompson cyber-renaissance detail. sharp focus on microscopic mechanical ports."
+    },
+    {
+        "id": 22,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Celestial Construct, pearl-textured neural composite, embedded crystalline processors along the jawline, holographic iris projecting status codes. Adorned with pulsing electrical storms. Atmosphere: volumetric fog with 8k neon flares. Color palette: regal gold and matte black. Art style inspired by Zdzisław Beksiński dystopian nightmare. Technical specs: 8k resolution, photorealistic Unreal Engine 5.4, intricate textures, 8k resolution."
+    },
+    {
+        "id": 23,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Data-stream vortex with glowing neon thread lattices textures. Reactive electromagnetic lightning arcs fields. electric storm backlighting atmosphere. Vibrant electric blue and violet nebula. James Thompson cyber-renaissance detail aesthetics. sharp focus on microscopic mechanical ports."
+    },
+    {
+        "id": 24,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Celestial Construct with matte white carbon fiber. Integrated hexagonal nanite plating pulsing at 60Hz. multi-faceted diamond ocular lenses optics. Enveloped in cascading binary code rain. subtle glitch-art distortions environment. regal gold and matte black and Zdzisław Beksiński dystopian nightmare influence. telephoto lens portrait, shallow depth."
+    },
+    {
+        "id": 25,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Geometric transcendence constructed from shattered diamond aerosols. Explosion of aurora-like data streams. Lighting: quantum entanglement lighting spooky action. Palette: toxic green and deep ultraviolet. Style: Alberto Seveso high-speed liquid dynamic, complex geometry. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 26,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Holographic Arbiter with sculpted porcelain face. Integrated micro-laser etched fractal patterns. mechanical pupils contracting with clockwork precision optics. Enveloped in ethereal wisps of plasma energy. chromatic aberration, event horizon environment. blood orange and cold steel gray and Peter Mohrbacher celestial entity horror influence. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 27,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Techno-organic constellation with interlocking geometric prisms textures. Reactive pulsing ion-fields creating a corona effect fields. bokeh of data-shards and hexagons atmosphere. Vibrant plasma white and ionized cyan. Beeple digital chaos and complexity aesthetics. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 28,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Silicon Sentinel with iridescent synth-flesh. Integrated hexagonal nanite plating pulsing at 60Hz. eyeless facial structure with sensor-nodes optics. Enveloped in electromagnetic lightning arcs. dramatic chiaroscuro neon highlights environment. toxic green and deep ultraviolet and James Thompson cyber-renaissance detail influence. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 29,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: swirling vapor of electrified mercury forming a Quantum singularity. Chaotic floating glyphs of ancient neural code flow. dramatic chiaroscuro neon highlights lighting. plasma white and ionized cyan colors. Inspired by Syd Mead industrial futurism aesthetic. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 30,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Post-human Entity featuring matte obsidian composite features and star-chart projection lenses. liquid light conduits flowing like tears details glowing through. pulsing electrical storms surrounding the head. subtle glitch-art distortions vibe. monochromatic silver and neon white scheme. H.R. Giger organic-tech bio-mechanical style. symmetrical composition, rule of thirds."
+    },
+    {
+        "id": 31,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Plasma silk sculpture constructed from swirling vapor of electrified mercury. Explosion of pulsing ion-fields creating a corona effect. Lighting: subtle glitch-art distortions. Palette: electric blue and violet nebula. Style: Moebius surreal sci-fi line-art, complex geometry. symmetrical composition, rule of thirds."
+    },
+    {
+        "id": 32,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Post-human Entity, iridescent synth-flesh, intricate fiber-optic capillaries, glowing sapphire optic sensors. Adorned with shimmering heat-distortion from over-clocked cores. Atmosphere: quantum entanglement lighting spooky action. Color palette: toxic green and deep ultraviolet. Art style inspired by Moebius surreal sci-fi line-art. Technical specs: telephoto lens portrait, shallow depth, intricate textures, 8k resolution."
+    },
+    {
+        "id": 33,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: shattered diamond aerosols forming a Data-stream vortex. Chaotic interstellar nebula wisps flow. dramatically backlit by a dying blue giant lighting. anodized copper and electric cobalt colors. Inspired by Zdzisław Beksiński dystopian nightmare. highly detailed textured 3D render."
+    },
+    {
+        "id": 34,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Glitch Titan, molten glass skin with internal glow, glowing neon neural pathways, glowing sapphire optic sensors. Adorned with ethereal wisps of plasma energy. Atmosphere: dense digital haze with light-streaks. Color palette: crimson pulse and metallic chrome. Art style inspired by Alberto Seveso high-speed liquid dynamic. Technical specs: highly detailed textured 3D render, intricate textures, 8k resolution."
+    },
+    {
+        "id": 35,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Geometric transcendence with frozen dark matter shards textures. Reactive nebulous ionized clouds fields. dramatically backlit by a dying blue giant atmosphere. Vibrant monochromatic silver and neon white. Alberto Seveso high-speed liquid dynamic aesthetics. telephoto lens portrait, shallow depth."
+    },
+    {
+        "id": 36,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Omniscient Neural Hub featuring shifting liquid mercury visage and vortex-iris reflecting distant galaxies. superconducting emerald ley-lines details glowing through. molecular dust particles suspended in a temporal field surrounding the head. strobe lighting from ion discharges vibe. plasma white and ionized cyan scheme. Android Jones psychedelic digital visionary style. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 37,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Neural entropy swarm constructed from molten rainbow chrome. Explosion of pulsing electrical storms. Lighting: nebular cosmic glow background. Palette: anodized copper and electric cobalt. Style: James Thompson cyber-renaissance detail, complex geometry. highly detailed textured 3D render."
+    },
+    {
+        "id": 38,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Synthetic Sovereign, iridescent synth-flesh, glowing neon neural pathways, eyeless facial structure with sensor-nodes. Adorned with ethereal wisps of plasma energy. Atmosphere: ethereal plasma source rim-lighting. Color palette: retro-vaporwave pastel gradients. Art style inspired by Alberto Seveso high-speed liquid dynamic. Technical specs: sharp focus on microscopic mechanical ports, intricate textures, 8k resolution."
+    },
+    {
+        "id": 39,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Fractal energy core constructed from frozen dark matter shards. Explosion of vortex of swirling quantum energy particles. Lighting: quantum entanglement lighting spooky action. Palette: plasma white and ionized cyan. Style: Syd Mead industrial futurism aesthetic, complex geometry. highly detailed textured 3D render."
+    },
+    {
+        "id": 40,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Celestial Construct, black-hole obsidian features, hexagonal nanite plating pulsing at 60Hz, multi-faceted diamond ocular lenses. Adorned with high-voltage plasma arcs. Atmosphere: electric storm backlighting. Color palette: electric blue and violet nebula. Art style inspired by H.R. Giger organic-tech bio-mechanical. Technical specs: extreme macro photography, f/1.8, intricate textures, 8k resolution."
+    },
+    {
+        "id": 41,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Geometric transcendence with glowing neon thread lattices textures. Reactive electromagnetic lightning arcs fields. subtle glitch-art distortions atmosphere. Vibrant regal gold and matte black. Android Jones psychedelic digital visionary aesthetics. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 42,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Void-Walker Unit featuring veined marble cyber-face and burning amber laser-array eyes. subsurface golden circuitry pulsing with warm light details glowing through. shimmering heat-distortion from over-clocked cores surrounding the head. chromatic aberration, event horizon vibe. plasma white and ionized cyan scheme. Zdzisław Beksiński dystopian nightmare style. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 43,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Fractal energy core constructed from interlocking geometric prisms. Explosion of high-voltage plasma arcs. Lighting: volumetric fog with 8k neon flares. Palette: crimson pulse and metallic chrome. Style: H.R. Giger organic-tech bio-mechanical, complex geometry. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 44,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Bio-mechanical Prime with matte white carbon fiber. Integrated micro-laser etched fractal patterns. burning amber laser-array eyes optics. Enveloped in molecular dust particles suspended in a temporal field. dramatic chiaroscuro neon highlights environment. retro-vaporwave pastel gradients and James Thompson cyber-renaissance detail influence. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 45,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: molten rainbow chrome forming a Cosmic binary nebula. Chaotic vortex of swirling quantum energy particles flow. subtle glitch-art distortions lighting. blood orange and cold steel gray colors. Inspired by Beeple digital chaos and complexity. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 46,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Neural Empress, molten glass skin with internal glow, hexagonal nanite plating pulsing at 60Hz, vortex-iris reflecting distant galaxies. Adorned with aurora-like data streams. Atmosphere: cinematic rain reflecting emerald neon. Color palette: monochromatic silver and neon white. Art style inspired by Peter Mohrbacher celestial entity horror. Technical specs: highly detailed textured 3D render, intricate textures, 8k resolution."
+    },
+    {
+        "id": 47,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: translucent jelly-like cosmic plasma forming a Quantum singularity. Chaotic halos of rotating geometric light flow. chromatic aberration, event horizon lighting. anodized copper and electric cobalt colors. Inspired by Moebius surreal sci-fi line-art. highly detailed textured 3D render."
+    },
+    {
+        "id": 48,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Neural Empress, veined marble cyber-face, liquid light conduits flowing like tears, mechanical pupils contracting with clockwork precision. Adorned with vortex of swirling quantum energy particles. Atmosphere: ethereal plasma source rim-lighting. Color palette: plasma white and ionized cyan. Art style inspired by Android Jones psychedelic digital visionary. Technical specs: extreme macro photography, f/1.8, intricate textures, 8k resolution."
+    },
+    {
+        "id": 49,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Supernova glitch constructed from frozen dark matter shards. Explosion of electromagnetic lightning arcs. Lighting: dense digital haze with light-streaks. Palette: electric blue and violet nebula. Style: Alberto Seveso high-speed liquid dynamic, complex geometry. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 50,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Synthetic Sovereign, humanoid face of brushed titanium, micro-laser etched fractal patterns, eyeless facial structure with sensor-nodes. Adorned with vortex of swirling quantum energy particles. Atmosphere: cinematic rain reflecting emerald neon. Color palette: anodized copper and electric cobalt. Art style inspired by Syd Mead industrial futurism aesthetic. Technical specs: Octane Render, ray-tracing, global illumination, intricate textures, 8k resolution."
+    },
+    {
+        "id": 51,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Neural entropy swarm with shattered diamond aerosols textures. Reactive electromagnetic lightning arcs fields. strobe lighting from ion discharges atmosphere. Vibrant anodized copper and electric cobalt. H.R. Giger organic-tech bio-mechanical aesthetics. symmetrical composition, rule of thirds."
+    },
+    {
+        "id": 52,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Celestial Construct featuring sculpted porcelain face and burning amber laser-array eyes. intricate fiber-optic capillaries details glowing through. vortex of swirling quantum energy particles surrounding the head. strobe lighting from ion discharges vibe. retro-vaporwave pastel gradients scheme. Alberto Seveso high-speed liquid dynamic style. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 53,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Quantum singularity with layered sheets of digital silk textures. Reactive halos of rotating geometric light fields. cinematic rain reflecting emerald neon atmosphere. Vibrant crimson pulse and metallic chrome. Moebius surreal sci-fi line-art aesthetics. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 54,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Quantum Muse with matte obsidian composite features. Integrated ultraviolet data-sigils glowing beneath the surface. glowing sapphire optic sensors optics. Enveloped in molecular dust particles suspended in a temporal field. volumetric fog with 8k neon flares environment. crimson pulse and metallic chrome and Peter Mohrbacher celestial entity horror influence. sharp focus on microscopic mechanical ports."
+    },
+    {
+        "id": 55,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Techno-organic constellation with swirling vapor of electrified mercury textures. Reactive molecular dust particles suspended in a temporal field fields. quantum entanglement lighting spooky action atmosphere. Vibrant retro-vaporwave pastel gradients. Moebius surreal sci-fi line-art aesthetics. highly detailed textured 3D render."
+    },
+    {
+        "id": 56,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Synthetic Sovereign, sculpted porcelain face, active nanite swarms forming temporary scars, star-chart projection lenses. Adorned with halos of rotating geometric light. Atmosphere: quantum entanglement lighting spooky action. Color palette: cyberpunk cyan and electric magenta. Art style inspired by H.R. Giger organic-tech bio-mechanical. Technical specs: wide angle cinematic sci-fi epic still, intricate textures, 8k resolution."
+    },
+    {
+        "id": 57,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Plasma silk sculpture constructed from translucent jelly-like cosmic plasma. Explosion of molecular dust particles suspended in a temporal field. Lighting: cinematic rain reflecting emerald neon. Palette: blood orange and cold steel gray. Style: Zdzisław Beksiński dystopian nightmare, complex geometry. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 58,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Cybernetic Guardian featuring matte obsidian composite features and void-black sensory implants with rotating rings. glowing neon neural pathways details glowing through. cascading binary code rain surrounding the head. crystalline snow falling upwards, zero-g vibe. monochromatic silver and neon white scheme. James Thompson cyber-renaissance detail style. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 59,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Holographic supernova with iridescent bismuth crystals textures. Reactive electromagnetic lightning arcs fields. nebular cosmic glow background atmosphere. Vibrant cyberpunk cyan and electric magenta. Syd Mead industrial futurism aesthetic aesthetics. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 60,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Post-human Entity featuring black-hole obsidian features and eyeless facial structure with sensor-nodes. ultraviolet data-sigils glowing beneath the surface details glowing through. high-voltage plasma arcs surrounding the head. volumetric fog with 8k neon flares vibe. anodized copper and electric cobalt scheme. James Thompson cyber-renaissance detail style. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 61,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Cosmic binary nebula with iridescent bismuth crystals textures. Reactive high-voltage plasma arcs fields. ethereal plasma source rim-lighting atmosphere. Vibrant plasma white and ionized cyan. Zdzisław Beksiński dystopian nightmare aesthetics. telephoto lens portrait, shallow depth."
+    },
+    {
+        "id": 62,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Glitch Titan with matte white carbon fiber. Integrated subsurface golden circuitry pulsing with warm light. glowing sapphire optic sensors optics. Enveloped in floating glyphs of ancient neural code. biological luminescence from internal structures environment. monochromatic silver and neon white and Android Jones psychedelic digital visionary influence. telephoto lens portrait, shallow depth."
+    },
+    {
+        "id": 63,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Quantum singularity with molten rainbow chrome textures. Reactive vortex of swirling quantum energy particles fields. cinematic rain reflecting emerald neon atmosphere. Vibrant iridescent opal and midnight blue. Zdzisław Beksiński dystopian nightmare aesthetics. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 64,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Cybernetic Guardian featuring humanoid face of brushed titanium and vortex-iris reflecting distant galaxies. subsurface golden circuitry pulsing with warm light details glowing through. pulsing electrical storms surrounding the head. crystalline snow falling upwards, zero-g vibe. crimson pulse and metallic chrome scheme. Syd Mead industrial futurism aesthetic style. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 65,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Supernova glitch with layered sheets of digital silk textures. Reactive high-voltage plasma arcs fields. quantum entanglement lighting spooky action atmosphere. Vibrant cyberpunk cyan and electric magenta. Android Jones psychedelic digital visionary aesthetics. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 66,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Silicon Sentinel with molten glass skin with internal glow. Integrated active nanite swarms forming temporary scars. burning amber laser-array eyes optics. Enveloped in molecular dust particles suspended in a temporal field. dense digital haze with light-streaks environment. crimson pulse and metallic chrome and Android Jones psychedelic digital visionary influence. telephoto lens portrait, shallow depth."
+    },
+    {
+        "id": 67,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: translucent jelly-like cosmic plasma forming a Geometric transcendence. Chaotic nebulous ionized clouds flow. cinematic rain reflecting emerald neon lighting. retro-vaporwave pastel gradients colors. Inspired by Zdzisław Beksiński dystopian nightmare. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 68,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Celestial Construct featuring iridescent synth-flesh and burning amber laser-array eyes. active nanite swarms forming temporary scars details glowing through. pulsing electrical storms surrounding the head. electric storm backlighting vibe. plasma white and ionized cyan scheme. Moebius surreal sci-fi line-art style. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 69,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Techno-organic constellation constructed from iridescent bismuth crystals. Explosion of interstellar nebula wisps. Lighting: cinematic rain reflecting emerald neon. Palette: blood orange and cold steel gray. Style: Peter Mohrbacher celestial entity horror, complex geometry. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 70,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Post-human Entity with iridescent synth-flesh. Integrated embedded crystalline processors along the jawline. holographic iris projecting status codes optics. Enveloped in molecular dust particles suspended in a temporal field. quantum entanglement lighting spooky action environment. regal gold and matte black and Moebius surreal sci-fi line-art influence. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 71,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: glowing neon thread lattices forming a Data-stream vortex. Chaotic electromagnetic lightning arcs flow. nebular cosmic glow background lighting. monochromatic silver and neon white colors. Inspired by James Thompson cyber-renaissance detail. highly detailed textured 3D render."
+    },
+    {
+        "id": 72,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Quantum Muse featuring veined marble cyber-face and eyeless facial structure with sensor-nodes. subsurface golden circuitry pulsing with warm light details glowing through. floating glyphs of ancient neural code surrounding the head. nebular cosmic glow background vibe. retro-vaporwave pastel gradients scheme. Android Jones psychedelic digital visionary style. symmetrical composition, rule of thirds."
+    },
+    {
+        "id": 73,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Geometric transcendence constructed from swirling vapor of electrified mercury. Explosion of nebulous ionized clouds. Lighting: electric storm backlighting. Palette: regal gold and matte black. Style: Syd Mead industrial futurism aesthetic, complex geometry. highly detailed textured 3D render."
+    },
+    {
+        "id": 74,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Bio-mechanical Prime, humanoid face of brushed titanium, ultraviolet data-sigils glowing beneath the surface, eyeless facial structure with sensor-nodes. Adorned with electromagnetic lightning arcs. Atmosphere: biological luminescence from internal structures. Color palette: cyberpunk cyan and electric magenta. Art style inspired by James Thompson cyber-renaissance detail. Technical specs: symmetrical composition, rule of thirds, intricate textures, 8k resolution."
+    },
+    {
+        "id": 75,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Neural entropy swarm with iridescent bismuth crystals textures. Reactive floating glyphs of ancient neural code fields. crystalline snow falling upwards, zero-g atmosphere. Vibrant cyberpunk cyan and electric magenta. Moebius surreal sci-fi line-art aesthetics. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 76,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Holographic Arbiter, pearl-textured neural composite, ultraviolet data-sigils glowing beneath the surface, multi-faceted diamond ocular lenses. Adorned with molecular dust particles suspended in a temporal field. Atmosphere: subtle glitch-art distortions. Color palette: toxic green and deep ultraviolet. Art style inspired by Alberto Seveso high-speed liquid dynamic. Technical specs: low angle heroic shot, cinematic lighting, intricate textures, 8k resolution."
+    },
+    {
+        "id": 77,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Data-stream vortex with swirling vapor of electrified mercury textures. Reactive aurora-like data streams fields. ethereal plasma source rim-lighting atmosphere. Vibrant crimson pulse and metallic chrome. James Thompson cyber-renaissance detail aesthetics. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 78,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Techno-Core featuring perfectly symmetrical synthetic skin and glowing sapphire optic sensors. intricate fiber-optic capillaries details glowing through. high-voltage plasma arcs surrounding the head. dramatic chiaroscuro neon highlights vibe. cyberpunk cyan and electric magenta scheme. Syd Mead industrial futurism aesthetic style. telephoto lens portrait, shallow depth."
+    },
+    {
+        "id": 79,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Fractal energy core constructed from iridescent bismuth crystals. Explosion of vortex of swirling quantum energy particles. Lighting: quantum entanglement lighting spooky action. Palette: plasma white and ionized cyan. Style: Moebius surreal sci-fi line-art, complex geometry. Octane Render, ray-tracing, global illumination."
+    },
+    {
+        "id": 80,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Post-human Entity featuring shifting liquid mercury visage and eyeless facial structure with sensor-nodes. embedded crystalline processors along the jawline details glowing through. halos of rotating geometric light surrounding the head. crystalline snow falling upwards, zero-g vibe. anodized copper and electric cobalt scheme. H.R. Giger organic-tech bio-mechanical style. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 81,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Holographic supernova constructed from molten rainbow chrome. Explosion of aurora-like data streams. Lighting: chromatic aberration, event horizon. Palette: regal gold and matte black. Style: Beeple digital chaos and complexity, complex geometry. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 82,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Synthetic Sovereign, black-hole obsidian features, superconducting emerald ley-lines, void-black sensory implants with rotating rings. Adorned with vortex of swirling quantum energy particles. Atmosphere: dramatic chiaroscuro neon highlights. Color palette: monochromatic silver and neon white. Art style inspired by Android Jones psychedelic digital visionary. Technical specs: telephoto lens portrait, shallow depth, intricate textures, 8k resolution."
+    },
+    {
+        "id": 83,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: layered sheets of digital silk forming a Holographic supernova. Chaotic pulsing electrical storms flow. volumetric fog with 8k neon flares lighting. plasma white and ionized cyan colors. Inspired by Zdzisław Beksiński dystopian nightmare. symmetrical composition, rule of thirds."
+    },
+    {
+        "id": 84,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Omniscient Neural Hub with matte obsidian composite features. Integrated ultraviolet data-sigils glowing beneath the surface. void-black sensory implants with rotating rings optics. Enveloped in aurora-like data streams. subtle glitch-art distortions environment. retro-vaporwave pastel gradients and Zdzisław Beksiński dystopian nightmare influence. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 85,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Cosmic binary nebula constructed from molten rainbow chrome. Explosion of vortex of swirling quantum energy particles. Lighting: cinematic rain reflecting emerald neon. Palette: iridescent opal and midnight blue. Style: Beeple digital chaos and complexity, complex geometry. symmetrical composition, rule of thirds."
+    },
+    {
+        "id": 86,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Silicon Sentinel, shifting liquid mercury visage, liquid light conduits flowing like tears, burning amber laser-array eyes. Adorned with ethereal wisps of plasma energy. Atmosphere: dramatically backlit by a dying blue giant. Color palette: regal gold and matte black. Art style inspired by Syd Mead industrial futurism aesthetic. Technical specs: highly detailed textured 3D render, intricate textures, 8k resolution."
+    },
+    {
+        "id": 87,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Ethereal data ghost with frozen dark matter shards textures. Reactive floating glyphs of ancient neural code fields. electric storm backlighting atmosphere. Vibrant anodized copper and electric cobalt. James Thompson cyber-renaissance detail aesthetics. low angle heroic shot, cinematic lighting."
+    },
+    {
+        "id": 88,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Techno-Core with matte obsidian composite features. Integrated glowing neon neural pathways. burning amber laser-array eyes optics. Enveloped in ethereal wisps of plasma energy. dense digital haze with light-streaks environment. monochromatic silver and neon white and Peter Mohrbacher celestial entity horror influence. extreme macro photography, f/1.8."
+    },
+    {
+        "id": 89,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: frozen dark matter shards forming a Holographic supernova. Chaotic electromagnetic lightning arcs flow. quantum entanglement lighting spooky action lighting. iridescent opal and midnight blue colors. Inspired by Zdzisław Beksiński dystopian nightmare. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 90,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Silicon Sentinel, shifting liquid mercury visage, embedded crystalline processors along the jawline, glowing sapphire optic sensors. Adorned with vortex of swirling quantum energy particles. Atmosphere: quantum entanglement lighting spooky action. Color palette: anodized copper and electric cobalt. Art style inspired by Moebius surreal sci-fi line-art. Technical specs: highly detailed textured 3D render, intricate textures, 8k resolution."
+    },
+    {
+        "id": 91,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: shattered diamond aerosols forming a Neural entropy swarm. Chaotic floating glyphs of ancient neural code flow. dramatic chiaroscuro neon highlights lighting. toxic green and deep ultraviolet colors. Inspired by Alberto Seveso high-speed liquid dynamic. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 92,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Cybernetic Guardian featuring pearl-textured neural composite and liquid nitrogen cooled ocular chambers. embedded crystalline processors along the jawline details glowing through. pulsing electrical storms surrounding the head. electric storm backlighting vibe. plasma white and ionized cyan scheme. Zdzisław Beksiński dystopian nightmare style. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 93,
+        "mode": "ABSTRACT",
+        "prompt": "Geometric transcendence of Techno-organic constellation with layered sheets of digital silk textures. Reactive pulsing electrical storms fields. strobe lighting from ion discharges atmosphere. Vibrant retro-vaporwave pastel gradients. Syd Mead industrial futurism aesthetic aesthetics. unmatched hyper-realism, photorealistic perfection."
+    },
+    {
+        "id": 94,
+        "mode": "FACES",
+        "prompt": "Cinematic close-up of Titanium Valkyrie featuring black-hole obsidian features and glowing sapphire optic sensors. hexagonal nanite plating pulsing at 60Hz details glowing through. high-voltage plasma arcs surrounding the head. chromatic aberration, event horizon vibe. anodized copper and electric cobalt scheme. James Thompson cyber-renaissance detail style. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 95,
+        "mode": "ABSTRACT",
+        "prompt": "Conceptual abstract art: Geometric transcendence constructed from layered sheets of digital silk. Explosion of ethereal wisps of plasma energy. Lighting: dramatically backlit by a dying blue giant. Palette: cyberpunk cyan and electric magenta. Style: Zdzisław Beksiński dystopian nightmare, complex geometry. sharp focus on microscopic mechanical ports."
+    },
+    {
+        "id": 96,
+        "mode": "FACES",
+        "prompt": "Masterpiece portrait of Quantum Muse, iridescent synth-flesh, embedded crystalline processors along the jawline, glowing sapphire optic sensors. Adorned with pulsing ion-fields creating a corona effect. Atmosphere: crystalline snow falling upwards, zero-g. Color palette: regal gold and matte black. Art style inspired by H.R. Giger organic-tech bio-mechanical. Technical specs: highly detailed textured 3D render, intricate textures, 8k resolution."
+    },
+    {
+        "id": 97,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: frozen dark matter shards forming a Geometric transcendence. Chaotic floating glyphs of ancient neural code flow. strobe lighting from ion discharges lighting. plasma white and ionized cyan colors. Inspired by Android Jones psychedelic digital visionary. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 98,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Synthetic Sovereign with matte obsidian composite features. Integrated ultraviolet data-sigils glowing beneath the surface. holographic iris projecting status codes optics. Enveloped in halos of rotating geometric light. bokeh of data-shards and hexagons environment. plasma white and ionized cyan and Beeple digital chaos and complexity influence. wide angle cinematic sci-fi epic still."
+    },
+    {
+        "id": 99,
+        "mode": "ABSTRACT",
+        "prompt": "Non-representational masterpiece: translucent jelly-like cosmic plasma forming a Ethereal data ghost. Chaotic halos of rotating geometric light flow. cinematic rain reflecting emerald neon lighting. cyberpunk cyan and electric magenta colors. Inspired by H.R. Giger organic-tech bio-mechanical. 8k resolution, photorealistic Unreal Engine 5.4."
+    },
+    {
+        "id": 100,
+        "mode": "FACES",
+        "prompt": "Symmetrical cybernetic deity portrait: Synthetic Sovereign with matte obsidian composite features. Integrated active nanite swarms forming temporary scars. eyeless facial structure with sensor-nodes optics. Enveloped in aurora-like data streams. chromatic aberration, event horizon environment. anodized copper and electric cobalt and Syd Mead industrial futurism aesthetic influence. wide angle cinematic sci-fi epic still."
+    }
+]

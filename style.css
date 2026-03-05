@@ -1,0 +1,336 @@
+:root {
+    --primary: #bc13fe;
+    --secondary: #008cff;
+    --accent: #ff00ff;
+    --bg: #050505;
+    --glass: rgba(255, 255, 255, 0.05);
+    --text: #e0e0e0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Rajdhani', sans-serif;
+    overflow-x: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.background-anim {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 50% 50%, #1a0a2a 0%, #050505 80%);
+    z-index: -1;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image:
+        linear-gradient(rgba(188, 19, 254, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(188, 19, 254, 0.05) 1px, transparent 1px);
+    background-size: 50px 50px;
+    z-index: -1;
+}
+
+header {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--glass);
+}
+
+.logo {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.8rem;
+    letter-spacing: 4px;
+    color: white;
+}
+
+.logo span {
+    color: var(--primary);
+    font-weight: 300;
+}
+
+.btn-exit {
+    background: transparent;
+    border: 1px solid #ff4b4b;
+    color: #ff4b4b;
+    padding: 0.4rem 1rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all 0.3s;
+}
+
+.btn-exit:hover {
+    background: #ff4b4b;
+    color: white;
+}
+
+main {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    color: var(--secondary);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.mode-selector {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.mode-btn {
+    background: var(--glass);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 1rem;
+    text-align: left;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 700;
+    transition: all 0.3s;
+}
+
+.mode-btn.active {
+    border-left: 4px solid var(--primary);
+    background: rgba(188, 19, 254, 0.1);
+}
+
+.primary-btn {
+    width: 100%;
+    padding: 1.5rem;
+    background: linear-gradient(45deg, var(--primary), var(--secondary));
+    border: none;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(188, 19, 254, 0.4);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.primary-btn:active {
+    transform: scale(0.98);
+}
+
+.stats {
+    margin-top: auto;
+    background: var(--glass);
+    padding: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.stat-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.stat-item .label {
+    color: #888;
+}
+
+.stat-item .value {
+    color: var(--secondary);
+    font-family: monospace;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 100%;
+    max-width: 800px;
+    padding: 3rem;
+    border-radius: 4px;
+    position: relative;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass {
+    background: rgba(10, 10, 10, 0.6);
+    backdrop-filter: blur(20px);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    align-items: center;
+}
+
+.badge {
+    padding: 0.3rem 0.8rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.badge.common {
+    background: #333;
+    color: #999;
+}
+
+.badge.rare {
+    background: var(--secondary);
+    color: white;
+}
+
+.badge.legendary {
+    background: var(--primary);
+    color: white;
+    box-shadow: 0 0 15px var(--primary);
+}
+
+.visual-preview {
+    width: 100%;
+    aspect-ratio: 1;
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    border-radius: 4px;
+}
+
+#nft-preview {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 0.5s;
+}
+
+#nft-preview.loading {
+    opacity: 0.2;
+    filter: blur(20px);
+}
+
+#loading-spinner {
+    position: absolute;
+    z-index: 10;
+    font-family: 'Orbitron', sans-serif;
+    color: var(--primary);
+    text-shadow: 0 0 15px var(--primary);
+    animation: neuroPulse 1.5s infinite;
+}
+
+@keyframes neuroPulse {
+    0% {
+        opacity: 0.3;
+        transform: scale(0.9);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scale(1.1);
+    }
+
+    100% {
+        opacity: 0.3;
+        transform: scale(0.9);
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+.prompt-container {
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+#prompt-text {
+    font-size: 1.4rem;
+    line-height: 1.6;
+    color: #fff;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.card-footer {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.secondary-btn {
+    background: transparent;
+    border: 1px solid var(--secondary);
+    color: var(--secondary);
+    padding: 0.8rem 1.5rem;
+    cursor: pointer;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+    transition: all 0.3s;
+}
+
+.secondary-btn:hover {
+    background: var(--secondary);
+    color: white;
+}
+
+.footer-btns {
+    display: flex;
+    gap: 1rem;
+}
+
+.secondary-btn.download-btn {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.secondary-btn.download-btn:hover {
+    background: var(--primary);
+    color: white;
+}
+
+.metadata {
+    color: #555;
+    font-family: monospace;
+}

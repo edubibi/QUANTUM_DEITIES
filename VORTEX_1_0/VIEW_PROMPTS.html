@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUANTUM DEITIES - PROMPT VIEWER v5.0 (OpenAI-Safe)</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --neon-magenta: #ff00ff;
+            --neon-cyan: #00ffff;
+            --neon-gold: #ffcc00;
+            --bg-dark: #050505;
+            --card-glass: rgba(20, 20, 20, 0.9);
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: white;
+            font-family: 'Rajdhani', sans-serif;
+            margin: 0;
+            padding: 40px;
+            background-image:
+                radial-gradient(circle at 10% 10%, rgba(255, 0, 255, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 90% 90%, rgba(0, 255, 255, 0.08) 0%, transparent 40%);
+            min-height: 100vh;
+        }
+
+        .header-container {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            color: var(--neon-gold);
+            text-transform: uppercase;
+            letter-spacing: 8px;
+            margin-bottom: 10px;
+            text-shadow: 0 0 15px rgba(255, 204, 0, 0.4);
+        }
+
+        .subtitle {
+            font-family: 'Rajdhani', sans-serif;
+            color: var(--neon-cyan);
+            letter-spacing: 4px;
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            opacity: 0.8;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 30px;
+        }
+
+        .prompt-card {
+            background: var(--card-glass);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 4px;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            backdrop-filter: blur(15px);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .prompt-card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--neon-cyan);
+            opacity: 0.3;
+        }
+
+        .prompt-card:hover {
+            border-color: var(--neon-magenta);
+            transform: scale(1.02);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+        }
+
+        .prompt-card:hover::before {
+            background: var(--neon-magenta);
+            opacity: 1;
+            box-shadow: 0 0 10px var(--neon-magenta);
+        }
+
+        .prompt-id {
+            color: var(--neon-magenta);
+            font-size: 0.7rem;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-family: 'Orbitron', sans-serif;
+            letter-spacing: 2px;
+        }
+
+        .mode-badge {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 0.6rem;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 3px 8px;
+            border-radius: 10px;
+            color: var(--neon-cyan);
+            text-transform: uppercase;
+            border: 1px solid rgba(0, 255, 255, 0.2);
+        }
+
+        .prompt-text {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 25px;
+            color: #ececec;
+            font-weight: 300;
+        }
+
+        .copy-btn {
+            background: rgba(0, 255, 255, 0.05);
+            border: 1px solid var(--neon-cyan);
+            color: var(--neon-cyan);
+            padding: 12px 20px;
+            border-radius: 2px;
+            cursor: pointer;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 0.75rem;
+            transition: all 0.2s;
+            width: 100%;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .copy-btn:hover {
+            background: var(--neon-cyan);
+            color: black;
+            box-shadow: 0 0 20px var(--neon-cyan);
+        }
+
+        .copy-btn.copied {
+            border-color: var(--neon-magenta);
+            color: #fff;
+            background: var(--neon-magenta);
+            box-shadow: 0 0 20px var(--neon-magenta);
+        }
+
+        /* Scanline effect */
+        body::after {
+            content: " ";
+            display: block;
+            position: fixed;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.15) 50%),
+                linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+            z-index: 9999;
+            background-size: 100% 3px, 3px 100%;
+            pointer-events: none;
+            opacity: 0.4;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header-container">
+        <h1>QUANTUM DEITIES</h1>
+        <div class="subtitle">PROMPT VIEWER v5.0 (OPENAI-SAFE)</div>
+    </div>
+
+    <div class="container" id="promptContainer">
+        <!-- Prompts will be loaded here -->
+    </div>
+
+    <script>
+        async function loadPrompts() {
+            try {
+                // Cargamos el nuevo lote generado
+                const response = await fetch('quantum_v5_batch.json');
+                const prompts = await response.json();
+                const container = document.getElementById('promptContainer');
+
+                prompts.forEach(p => {
+                    const card = document.createElement('div');
+                    card.className = 'prompt-card';
+                    card.innerHTML = `
+                        <div class="mode-badge">${p.mode}</div>
+                        <div class="prompt-id">TRANSMISSION_#${String(p.id).padStart(3, '0')}</div>
+                        <div class="prompt-text">${p.prompt}</div>
+                        <button class="copy-btn" onclick="copyToClipboard('${p.prompt.replace(/'/g, "\\'")}', this)">COPY QUANTUM DATA</button>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                console.error('Error cargando prompts:', error);
+                document.getElementById('promptContainer').innerHTML = '<p style="color:red">Error: Asegúrate de que quantum_v5_batch.json existe en la misma carpeta.</p>';
+            }
+        }
+
+        function copyToClipboard(text, btn) {
+            navigator.clipboard.writeText(text).then(() => {
+                const originalText = btn.innerText;
+                btn.innerText = 'DATA_COPIED';
+                btn.classList.add('copied');
+                setTimeout(() => {
+                    btn.innerText = originalText;
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+
+        window.onload = loadPrompts;
+    </script>
+</body>
+
+</html>
