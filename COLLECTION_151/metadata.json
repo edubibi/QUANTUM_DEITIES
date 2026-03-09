@@ -840,129 +840,9 @@
         ]
     },
     {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #01",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_01.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #02",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_02.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #03",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_03.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #04",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_04.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #05",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_05.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #06",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_06.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure 51a3ff3 #07",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
-        "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_07.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
         "name": "Abstract Futuristic Deity Figure 51a3ff3 #08",
         "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure 51a3ff3.",
         "image": "Abstract_Futuristic_Deity_Figure_51a3ff3_08.png",
-        "attributes": [
-            {
-                "trait_type": "Archetype",
-                "value": "Abstract"
-            },
-            {
-                "trait_type": "Collection",
-                "value": "Quantum Deities 151"
-            }
-        ]
-    },
-    {
-        "name": "Abstract Futuristic Deity Figure #04",
-        "description": "An ethereal entity from the Quantum Deities collection. Concept: Abstract Futuristic Deity Figure.",
-        "image": "Abstract_Futuristic_Deity_Figure_04.png",
         "attributes": [
             {
                 "trait_type": "Archetype",
@@ -2257,6 +2137,276 @@
             {
                 "trait_type": "Archetype",
                 "value": "Fox"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Void Sentinel #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Celestial Void Sentinel.",
+        "image": "Celestial_Void_Sentinel_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Celestial"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Celestial Void Sentinel #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Celestial Void Sentinel.",
+        "image": "Celestial_Void_Sentinel_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Celestial"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Bioluminescent Deep-Sea Oracle #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Bioluminescent Deep-Sea Oracle.",
+        "image": "Bioluminescent_Deep_Sea_Oracle_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Ethereal"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Bioluminescent Deep-Sea Oracle #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Bioluminescent Deep-Sea Oracle.",
+        "image": "Bioluminescent_Deep_Sea_Oracle_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Ethereal"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Chrome-Plated Zen Master #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Chrome-Plated Zen Master.",
+        "image": "Chrome_Plated_Zen_Master_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Mechanical"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Chrome-Plated Zen Master #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Chrome-Plated Zen Master.",
+        "image": "Chrome_Plated_Zen_Master_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Mechanical"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Fractal Geometry Architect #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Fractal Geometry Architect.",
+        "image": "Fractal_Geometry_Architect_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Abstract"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Fractal Geometry Architect #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Fractal Geometry Architect.",
+        "image": "Fractal_Geometry_Architect_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Abstract"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Solar Flare High Priestess #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Solar Flare High Priestess.",
+        "image": "Solar_Flare_High_Priestess_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Celestial"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Solar Flare High Priestess #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Solar Flare High Priestess.",
+        "image": "Solar_Flare_High_Priestess_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Celestial"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Neon Architect Deity #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Neon Architect Deity.",
+        "image": "Neon_Architect_Deity_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Architect"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Neon Architect Deity #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Neon Architect Deity.",
+        "image": "Neon_Architect_Deity_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Architect"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Circuit Priest Avatar #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Circuit Priest Avatar.",
+        "image": "Circuit_Priest_Avatar_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Mechanical"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Circuit Priest Avatar #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Circuit Priest Avatar.",
+        "image": "Circuit_Priest_Avatar_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Mechanical"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Clockwork Time Keeper #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Clockwork Time Keeper.",
+        "image": "Clockwork_Time_Keeper_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Mechanical"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Clockwork Time Keeper #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Clockwork Time Keeper.",
+        "image": "Clockwork_Time_Keeper_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Mechanical"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Techno-Organic Shaman #01",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Techno-Organic Shaman.",
+        "image": "Techno_Organic_Shaman_01.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Ethereal"
+            },
+            {
+                "trait_type": "Collection",
+                "value": "Quantum Deities 151"
+            }
+        ]
+    },
+    {
+        "name": "Techno-Organic Shaman #02",
+        "description": "An ethereal entity from the Quantum Deities collection. Concept: Techno-Organic Shaman.",
+        "image": "Techno_Organic_Shaman_02.png",
+        "attributes": [
+            {
+                "trait_type": "Archetype",
+                "value": "Ethereal"
             },
             {
                 "trait_type": "Collection",

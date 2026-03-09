@@ -1,0 +1,52 @@
+# QUANTUM DEITIES: SPECIALIZED PROMPTS
+# Generated on: 20260306_095218
+
+## MIDJOURNEY V6 PROMPTS
+Instructions: Copy and paste directly into /imagine prompt in Discord.
+
+1. Portrait of a Neural Empress, translucent bio-engineered skin, embedded crystalline processors along the jawline, eyeless facial structure with sensor-nodes, electromagnetic lightning arcs, bokeh of data-shards and hexagons, cyberpunk cyan and electric magenta, style by H.R. Giger organic-tech bio-mechanical, intricate details, hyper-realistic, 8k --v 6.0 --ar 4:5 --stylize 750
+
+2. Portrait of a Celestial Construct, molten glass skin with internal glow, active nanite swarms forming temporary scars, star-chart projection lenses, high-voltage plasma arcs, ethereal plasma rim-lighting, electric blue and violet nebula, style by Peter Mohrbacher celestial entity horror, intricate details, hyper-realistic, 8k --v 6.0 --ar 4:5 --stylize 750
+
+3. Portrait of a Titanium Valkyrie, humanoid face of brushed titanium, subsurface golden circuitry pulsing with warm light, void-black sensory implants with rotating rings, vortex of swirling quantum energy particles, dramatically backlit by a dying blue giant, iridescent opal and midnight blue, style by H.R. Giger organic-tech bio-mechanical, intricate details, hyper-realistic, 8k --v 6.0 --ar 4:5 --stylize 750
+
+4. Portrait of a Holographic Arbiter, iridescent synth-flesh, active nanite swarms forming temporary scars, void-black sensory implants with rotating rings, cascading binary code rain, nebular cosmic glow, iridescent opal and midnight blue, style by Android Jones psychedelic digital visionary, intricate details, hyper-realistic, 8k --v 6.0 --ar 4:5 --stylize 750
+
+5. Portrait of a Bio-mechanical Prime, humanoid face of brushed titanium, micro-laser etched fractal patterns, multi-faceted diamond ocular lenses, pulsing electrical storms, ethereal plasma rim-lighting, toxic green and deep ultraviolet, style by Beeple digital chaos and complexity, intricate details, hyper-realistic, 8k --v 6.0 --ar 4:5 --stylize 750
+
+6. Conceptual abstract art: Techno-organic constellation, made of shattered diamond aerosols, ethereal wisps of plasma energy, dramatic chiaroscuro neon highlights, regal gold and matte black, inspired by James Thompson cyber-renaissance detail, intricate details, hyper-realistic, 8k --v 6.0 --ar 16:9 --stylize 750
+
+7. Conceptual abstract art: Techno-organic constellation, made of iridescent bismuth crystals, vortex of swirling quantum energy particles, biological luminescence, retro-vaporwave pastel gradients, inspired by James Thompson cyber-renaissance detail, intricate details, hyper-realistic, 8k --v 6.0 --ar 16:9 --stylize 750
+
+8. Conceptual abstract art: Liquid light explosion, made of interlocking geometric prisms, vortex of swirling quantum energy particles, bokeh of data-shards and hexagons, iridescent opal and midnight blue, inspired by Android Jones psychedelic digital visionary, intricate details, hyper-realistic, 8k --v 6.0 --ar 16:9 --stylize 750
+
+9. Conceptual abstract art: Supernova glitch, made of swirling vapor of electrified mercury, pulsing electrical storms, dense digital haze, light-streaks, crimson pulse and metallic chrome, inspired by H.R. Giger organic-tech bio-mechanical, intricate details, hyper-realistic, 8k --v 6.0 --ar 16:9 --stylize 750
+
+10. Conceptual abstract art: Plasma silk sculpture, made of iridescent bismuth crystals, pulsing ion-fields creating a corona effect, cinematic rain reflecting emerald neon, monochromatic silver and neon white, inspired by Alberto Seveso high-speed liquid dynamic, intricate details, hyper-realistic, 8k --v 6.0 --ar 16:9 --stylize 750
+
+
+==================================================
+
+## LEONARDO.AI PROMPTS
+Instructions: Best with 'Leonardo Vision XL' or 'Kino XL' models. Turn on 'Alchemy'.
+
+1. Masterpiece cinematic portrait of Data-stream Node. Features: molten glass skin with internal glow, superconducting emerald ley-lines, vortex-iris reflecting distant galaxies. Surrounded by molecular dust particles suspended in a temporal field. Atmospheric strobe lighting, ion discharges. Color palette: monochromatic silver and neon white. Art style of Zdzisław Beksiński dystopian nightmare. Global illumination, raytracing, highly detailed textures.
+
+2. Masterpiece cinematic portrait of Synthetic Sovereign. Features: matte white carbon fiber, superconducting emerald ley-lines, liquid nitrogen cooled ocular chambers. Surrounded by shimmering heat-distortion from over-clocked cores. Atmospheric crystalline snow falling upwards, zero-g. Color palette: retro-vaporwave pastel gradients. Art style of Android Jones psychedelic digital visionary. Global illumination, raytracing, highly detailed textures.
+
+3. Masterpiece cinematic portrait of Data-stream Node. Features: humanoid face of brushed titanium, embedded crystalline processors along the jawline, holographic iris projecting status codes. Surrounded by nebulous ionized clouds. Atmospheric volumetric fog, 8k neon flares. Color palette: electric blue and violet nebula. Art style of James Thompson cyber-renaissance detail. Global illumination, raytracing, highly detailed textures.
+
+4. Masterpiece cinematic portrait of Holographic Arbiter. Features: veined marble cyber-face, intricate fiber-optic capillaries, eyeless facial structure with sensor-nodes. Surrounded by electromagnetic lightning arcs. Atmospheric biological luminescence. Color palette: regal gold and matte black. Art style of Syd Mead industrial futurism aesthetic. Global illumination, raytracing, highly detailed textures.
+
+5. Masterpiece cinematic portrait of Quantum Muse. Features: matte obsidian composite features, liquid light conduits flowing like tears, mechanical pupils contracting with clockwork precision. Surrounded by aurora-like data streams. Atmospheric crystalline snow falling upwards, zero-g. Color palette: iridescent opal and midnight blue. Art style of Moebius surreal sci-fi line-art. Global illumination, raytracing, highly detailed textures.
+
+6. Stunning abstract visualization: Techno-organic constellation constructed from frozen dark matter shards. Swirling shimmering heat-distortion from over-clocked cores. bokeh of data-shards and hexagons effects. anodized copper and electric cobalt theme. In the style of H.R. Giger organic-tech bio-mechanical. Complex geometry, sharp focus, 8k detail.
+
+7. Stunning abstract visualization: Data-stream vortex constructed from layered sheets of digital silk. Swirling high-voltage plasma arcs. quantum entanglement lighting, spooky action at a distance effects. regal gold and matte black theme. In the style of James Thompson cyber-renaissance detail. Complex geometry, sharp focus, 8k detail.
+
+8. Stunning abstract visualization: Plasma silk sculpture constructed from shattered diamond aerosols. Swirling ethereal wisps of plasma energy. biological luminescence effects. anodized copper and electric cobalt theme. In the style of James Thompson cyber-renaissance detail. Complex geometry, sharp focus, 8k detail.
+
+9. Stunning abstract visualization: Supernova glitch constructed from layered sheets of digital silk. Swirling ethereal wisps of plasma energy. subtle glitch-art distortions effects. iridescent opal and midnight blue theme. In the style of Peter Mohrbacher celestial entity horror. Complex geometry, sharp focus, 8k detail.
+
+10. Stunning abstract visualization: Techno-organic constellation constructed from iridescent bismuth crystals. Swirling cascading binary code rain. chromatic aberration, event horizon effects. retro-vaporwave pastel gradients theme. In the style of H.R. Giger organic-tech bio-mechanical. Complex geometry, sharp focus, 8k detail.
+
