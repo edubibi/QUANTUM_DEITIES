@@ -29,8 +29,10 @@
                 <button id="btn-abstract" class="mode-btn" onclick="setMode('ABSTRACT')">ABSTRACT (Energy)</button>
             </div>
 
-            <div class="action-zone">
-                <button id="generate-btn" class="primary-btn">GENERAR PROMPT ESTELAR</button>
+            <div class="action-zone" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+                <button id="generate-btn" class="primary-btn">GENERAR x1</button>
+                <button id="generate-batch-10-btn" class="primary-btn" onclick="generateBatch(10)">BATCH x10</button>
+                <button id="generate-batch-50-btn" class="primary-btn" onclick="generateBatch(50)">BATCH x50</button>
             </div>
 
             <div class="stats">
@@ -58,7 +60,7 @@
                 </div>
 
                 <div class="prompt-container">
-                    <p id="prompt-text">Haz clic en el botón para generar el primer prompt de la serie.</p>
+                    <textarea id="prompt-text" style="width: 100%; min-height: 120px; background: rgba(0,0,0,0.5); color: #00ffcc; border: 1px solid #00ffcc; padding: 10px; font-family: 'Rajdhani', sans-serif; resize: vertical;" readonly>Haz clic en el botón para generar prompts.</textarea>
                 </div>
 
                 <div class="card-footer">

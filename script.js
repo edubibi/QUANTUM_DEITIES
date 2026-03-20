@@ -3,69 +3,99 @@ const ATOMIC_TRAITS = {
         "Android Archangel", "Cybernetic Seraphim", "Quantum Muse", "Silicon Deity",
         "Celestial Android", "Neural Empress", "Holographic Monk", "Post-human Messiah",
         "Synthetic Goddess", "Data-stream Cherub", "Glitch Titan", "Techno-Oracle",
-        "Bio-mechanical Priestess", "Titanium Valkyrie", "Void-Walker Android", "Omniscient Neural Hub"
+        "Bio-mechanical Priestess", "Titanium Valkyrie", "Void-Walker Android", "Omniscient Neural Hub",
+        "Neon Shaman", "Plasma Warlord", "Digital Ascendant", "Fractal Prophet", "Cyber-Geisha", "Mecha-Buddha", "Quantum Sentinel",
+        "Chrome Demigod", "Algorithmic Sphinx", "Silicon Pharaoh", "Network Avatar",
+        "Holographic Samurai", "Digital Djinn", "Cryogenic Deity", "Etheric Sorcerer", "Techno-Druid", "Subatomic Weaver"
     ],
     "Entity_Abstract": [
         "Quantum singularity", "Neural entropy swarm", "Fractal energy core", "Data-stream vortex",
         "Liquid light explosion", "Cosmic binary nebula", "Geometric transcendence", "Plasma silk sculpture",
-        "Ethereal data ghost", "Techno-organic constellation", "Supernova glitch", "Holographic supernova"
+        "Ethereal data ghost", "Techno-organic constellation", "Supernova glitch", "Holographic supernova",
+        "Tesseract cascade", "Chronometric anomaly", "Dimensional rift", "Dark matter bloom", "Stellar nursery projection",
+        "Quantum superposition field", "Magnetic flux toroid", "Neon supercluster",
+        "Hyperdimensional manifold", "Gravitational wave echo", "Event horizon distortion", "Sentient algorithm burst", "Digital Big Bang"
     ],
     "Facial_Base": [
         "sculpted porcelain face", "translucent bio-engineered skin", "shifting liquid mercury visage",
         "matte obsidian composite features", "iridescent synth-flesh", "matte white carbon fiber",
         "humanoid face of brushed titanium", "perfectly symmetrical synthetic skin", "veined marble cyber-face",
-        "molten glass skin with internal glow", "pearl-textured neural composite", "black-hole obsidian features"
+        "molten glass skin with internal glow", "pearl-textured neural composite", "black-hole obsidian features",
+        "frosted clear polymer mask", "polygonal low-poly visage", "chromatic metal plating", "living sandstone circuitry",
+        "mirror-finish chrome contours", "crystallized carbon skin", "vibrating acoustic gel mask", "hologram overlay resolving into features", "semi-transparent amethyst face"
     ],
     "Circuitry_Integration": [
         "subsurface golden circuitry pulsing with warm light", "glowing neon neural pathways",
         "intricate fiber-optic capillaries", "micro-laser etched fractal patterns",
         "embedded crystalline processors along the jawline", "liquid light conduits flowing like tears",
         "ultraviolet data-sigils glowing beneath the surface", "active nanite swarms forming temporary scars",
-        "hexagonal nanite plating pulsing at 60Hz", "superconducting emerald ley-lines"
+        "hexagonal nanite plating pulsing at 60Hz", "superconducting emerald ley-lines",
+        "copper wire dreadlocks integrating into the skull", "bioluminescent fungal-tech spores",
+        "geometric platinum tracing", "pulsing magenta logic gates",
+        "carbon-nanotube neural lace visible through the skin", "quantum entanglement nodes embedded in the forehead", "flowing silver liquid cooling pipes", "fractal brass clockwork integrations"
     ],
     "Materials_Abstract": [
         "iridescent bismuth crystals", "molten rainbow chrome", "frozen dark matter shards",
         "translucent jelly-like cosmic plasma", "layered sheets of digital silk", "interlocking geometric prisms",
-        "swirling vapor of electrified mercury", "shattered diamond aerosols", "glowing neon thread lattices"
+        "swirling vapor of electrified mercury", "shattered diamond aerosols", "glowing neon thread lattices",
+        "liquid gold and black sand", "crystalized argon gas", "floating droplets of supercooled water",
+        "hyper-reflective metallic glass", "woven carbon nanotubes",
+        "aerosolized platinum dust", "semi-solid helium gel", "shimmering quantum foam", "living mathematical equations rendered in glass", "pulsating tectonic basalt"
     ],
     "Ocular_Augmentation": [
         "multi-faceted diamond ocular lenses", "glowing sapphire optic sensors",
         "void-black sensory implants with rotating rings", "burning amber laser-array eyes",
         "liquid nitrogen cooled ocular chambers", "holographic iris projecting status codes",
         "mechanical pupils contracting with clockwork precision", "eyeless facial structure with sensor-nodes",
-        "star-chart projection lenses", "vortex-iris reflecting distant galaxies"
+        "star-chart projection lenses", "vortex-iris reflecting distant galaxies",
+        "mirror-finish blindfolds with glowing slits", "cluster of spider-like camera lenses",
+        "pulsating neon rings instead of eyes",
+        "deep-sea submersible style glowing visors", "third-eye neural jack glowing violet", "eyes replaced by miniature spinning black holes", "kaleidoscopic crystal clusters instead of eyes"
     ],
     "Energy_FX": [
         "vortex of swirling quantum energy particles", "ethereal wisps of plasma energy",
         "cascading binary code rain", "halos of rotating geometric light",
         "molecular dust particles suspended in a temporal field", "aurora-like data streams",
         "pulsing ion-fields creating a corona effect", "shimmering heat-distortion from over-clocked cores",
-        "electromagnetic lightning arcs", "floating glyphs of ancient neural code"
+        "electromagnetic lightning arcs", "floating glyphs of ancient neural code",
+        "trails of bioluminescent smoke", "shattering glass physics frozen in time",
+        "holographic interference patterns", "stray tachyon emissions",
+        "arcs of leaping chain-lightning", "slow-motion explosions of digital shrapnel", "auras of pure static noise", "orbiting rings of celestial fire"
     ],
     "Style_Artist": [
-        "H.R. Giger organic-tech", "Moebius surreal sci-fi", "Syd Mead futurism", "Beeple digital chaos",
-        "Zdzisław Beksiński dystopian nightmare", "Peter Mohrbacher celestial horror", "Alberto Seveso high-speed liquid",
-        "Android Jones psychedelic digital", "James Thompson cyber-renaissance"
+        "Moebius surreal sci-fi", "Syd Mead futurism", "Beeple digital chaos",
+        "Peter Mohrbacher celestial", "Alberto Seveso high-speed liquid",
+        "Android Jones psychedelic digital", "James Thompson cyber-renaissance", "Katsuhiro Otomo cyberpunk aesthetics",
+        "Josan Gonzalez neon grit", "Simon Stålenhag retro-futurism", "Ash Thorp mechanical precision", "Ghost in the Shell production art",
+        "Karol Bak ethereal surrealism", "Greg Rutkowski dramatic lighting", "Wlop digital illustration", "ArtStation trending masterpiece", "vitaly bulgarov hard surface design", "Dan LuVisi vibrant cyberpunk"
     ],
     "Lighting_Atmosphere": [
         "volumetric fog illuminated by 8k neon flares", "dense digital haze with light-streaks",
         "crystalline snow falling upwards in zero-g", "chromatic aberration at the event horizon",
         "subtle glitch-art distortions in the air", "bokeh of data-shards and hexagons",
         "dramatically backlit by a dying blue giant star", "cinematic rain reflecting emerald neon signs",
-        "biological luminescence from internal organs", "quantum entanglement lighting (spooky action at a distance)"
+        "biological luminescence from internal organs", "quantum entanglement lighting (spooky action at a distance)",
+        "harsh surveillance spotlight crossing the frame", "bioluminescent deep-sea gloom",
+        "strobe lighting freezing motion", "warm, golden-hour smog",
+        "absolute darkness pierced by single laser beam", "radioactive green ambient glow", "sun shafts piercing structural ruins", "ethereal moonlight reflecting off wet chrome"
     ],
     "Camera_Tech": [
         "extreme close-up macro photography, f/1.8", "telephoto lens portrait, shallow depth of field",
         "low angle heroic shot, cinematic lighting", "symmetrical composition, rule of thirds",
         "wide angle cinematic still from a sci-fi epic", "highly detailed textured 3D render",
         "8k resolution, photorealistic Unreal Engine 5.4 style", "sharp focus on microscopic mechanical ports",
-        "Octane Render, ray-tracing, global illumination, path-tracing"
+        "Octane Render, ray-tracing, global illumination, path-tracing", "shot on 70mm Panavision lens, film grain",
+        "drone-camera dynamic angle", "fisheye lens distortion at the edges", "cinematic anamorphic lens flare",
+        "isometric 3D perspective", "goPro style action perspective", "vintage polaroid film aesthetic but high def", "tilt-shift miniature effect"
     ],
     "Color_Theory": [
         "cyberpunk cyan and electric magenta", "toxic green and deep ultraviolet",
         "regal gold and matte black", "iridescent opal and midnight blue",
         "crimson pulse and metallic chrome", "blood orange and cold steel gray",
-        "monochromatic silver and neon white", "retro-vaporwave pastel gradients"
+        "monochromatic silver and neon white", "retro-vaporwave pastel gradients",
+        "high contrast synthwave yellow and purple", "bio-hazard yellow and glossy black",
+        "rust and verdigris patina", "holographic pearlescent sheen",
+        "sepia tones with splashes of hyper-red", "neon peach and icy teal", "bone white and arterial red", "pure grayscale with single glowing accent color"
     ]
 };
 
@@ -82,28 +112,62 @@ function getRandom(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
 }
 
-function generatePrompt() {
+function createPromptText(mode) {
     const style = getRandom(ATOMIC_TRAITS.Style_Artist);
     const mood = getRandom(ATOMIC_TRAITS.Lighting_Atmosphere);
     const camera = getRandom(ATOMIC_TRAITS.Camera_Tech);
     const colors = getRandom(ATOMIC_TRAITS.Color_Theory);
     const energy = getRandom(ATOMIC_TRAITS.Energy_FX);
 
+    if (mode === 'FACES') {
+        const entity = getRandom(ATOMIC_TRAITS.Entity_Faces);
+        const base = getRandom(ATOMIC_TRAITS.Facial_Base);
+        const circuits = getRandom(ATOMIC_TRAITS.Circuitry_Integration);
+        const eyes = getRandom(ATOMIC_TRAITS.Ocular_Augmentation);
+        return `Masterpiece portrait of ${entity}, ${base}, ${circuits}, ${eyes}. Adorned with ${energy}. Atmosphere: ${mood}. Color palette: ${colors}. Art style inspired by ${style}. Technical specs: ${camera}, intricate textures, hyper-detailed, 8k resolution --ar 16:9 --stylize 500 --v 6.0`;
+    } else {
+        const entity = getRandom(ATOMIC_TRAITS.Entity_Abstract);
+        const material = getRandom(ATOMIC_TRAITS.Materials_Abstract);
+        return `Conceptual abstract art of ${entity} made of ${material}. Explosion of ${energy}. Lighting: ${mood}. Palette: ${colors}. Style: ${style}, complex geometry, fractal patterns. Technical: ${camera}, ray-traced reflections, high fidelity masterpiece --ar 16:9 --stylize 800 --v 6.0`;
+    }
+}
+
+function generateBatch(count) {
+    const btn = document.getElementById(`generate-batch-${count}-btn`);
+    if(btn) {
+        btn.innerText = "GENERANDO...";
+        btn.style.opacity = "0.7";
+    }
+    
+    setTimeout(() => {
+        let prompts = [];
+        for (let i = 0; i < count; i++) {
+            prompts.push(createPromptText(currentMode));
+        }
+        document.getElementById('prompt-text').value = prompts.join("\n\n----------------------------\n\n");
+        document.getElementById('id-tag').innerText = `BATCH x${count}`;
+        
+        const badge = document.getElementById('rarity-badge');
+        badge.className = 'badge legendary';
+        badge.innerText = 'BATCH SERIES';
+
+        if(btn) {
+            btn.innerText = `BATCH x${count}`;
+            btn.style.opacity = "1";
+        }
+    }, 400);
+}
+
+function generatePrompt() {
     const previewImg = document.getElementById('nft-preview');
     const spinner = document.getElementById('loading-spinner');
 
     previewImg.classList.add('loading');
     spinner.classList.remove('hidden');
 
-    let prompt = "";
+    const promptText = createPromptText(currentMode);
+
     if (currentMode === 'FACES') {
-        const entity = getRandom(ATOMIC_TRAITS.Entity_Faces);
-        const base = getRandom(ATOMIC_TRAITS.Facial_Base);
-        const circuits = getRandom(ATOMIC_TRAITS.Circuitry_Integration);
-        const eyes = getRandom(ATOMIC_TRAITS.Ocular_Augmentation);
-
-        prompt = `Masterpiece portrait of ${entity}, ${base}, ${circuits}, ${eyes}. Adorned with ${energy}. Atmosphere: ${mood}. Color palette: ${colors}. Art style inspired by ${style}. Technical specs: ${camera}, intricate textures, hyper-detailed, 8k resolution.`;
-
         setTimeout(() => {
             const index = Math.floor(Math.random() * 3) + 1;
             previewImg.src = `samples/face_v5_${index}.png`;
@@ -111,11 +175,6 @@ function generatePrompt() {
             spinner.classList.add('hidden');
         }, 1500);
     } else {
-        const entity = getRandom(ATOMIC_TRAITS.Entity_Abstract);
-        const material = getRandom(ATOMIC_TRAITS.Materials_Abstract);
-
-        prompt = `Conceptual abstract art of ${entity} made of ${material}. Explosion of ${energy}. Lighting: ${mood}. Palette: ${colors}. Style: ${style}, complex geometry, fractal patterns. Technical: ${camera}, ray-traced reflections, high fidelity masterpiece.`;
-
         setTimeout(() => {
             const index = Math.floor(Math.random() * 3) + 1;
             previewImg.src = `samples/abstract_v5_${index}.png`;
@@ -124,7 +183,6 @@ function generatePrompt() {
         }, 1500);
     }
 
-    // Rareza
     const roll = Math.random();
     const badge = document.getElementById('rarity-badge');
     badge.className = 'badge';
@@ -139,12 +197,12 @@ function generatePrompt() {
         badge.classList.add('common');
     }
 
-    document.getElementById('prompt-text').innerText = prompt;
+    document.getElementById('prompt-text').value = promptText;
     document.getElementById('id-tag').innerText = `ID: #${Math.floor(Math.random() * 9999).toString().padStart(4, '0')}`;
 }
 
 function copyPrompt() {
-    const text = document.getElementById('prompt-text').innerText;
+    const text = document.getElementById('prompt-text').value;
     navigator.clipboard.writeText(text).then(() => {
         const btn = document.querySelector('.secondary-btn');
         const original = btn.innerText;
